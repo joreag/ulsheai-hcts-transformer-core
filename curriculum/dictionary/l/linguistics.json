@@ -1,0 +1,13 @@
+{
+  "problem_description": "Dictionary: The word 'linguistics'",
+  "level": 2,
+  "dependencies": ["linguistics/L0_nouns.json", "dictionary/l/language.json"],
+  "properties": {
+    "canonical_name": "linguistics",
+    "part_of_speech": "noun",
+    "definition": "The scientific study of language and its structure, including the study of grammar, syntax, and phonetics.",
+    "example_sentence": "Our linguistics curriculum provides the AI with a formal model of language.",
+    "synonyms": ["philology", "grammar", "syntax"],
+    "antonyms": []
+  }
+}

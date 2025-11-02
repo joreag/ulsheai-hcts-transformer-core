@@ -1,0 +1,13 @@
+{
+  "problem_description": "Dictionary: The word 'explain'",
+  "level": 1,
+  "dependencies": ["linguistics/L0_verbs.json"],
+  "properties": {
+    "canonical_name": "explain",
+    "part_of_speech": "verb",
+    "definition": "To make an idea, situation, or problem clear to someone by describing it in more detail or revealing relevant facts.",
+    "example_sentence": "The AI could not fully explain its reasoning without a larger vocabulary.",
+    "synonyms": ["clarify", "describe", "define", "elucidate"],
+    "antonyms": ["confuse", "obscure"]
+  }
+}

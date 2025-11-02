@@ -1,0 +1,13 @@
+{
+  "problem_description": "Dictionary: The word 'now'",
+  "level": 0,
+  "dependencies": ["linguistics/L0_adverbs.json"],
+  "properties": {
+    "canonical_name": "now",
+    "part_of_speech": "adverb",
+    "definition": "At the present time or moment.",
+    "example_sentence": "We are now ready to begin the next phase.",
+    "synonyms": ["currently", "presently", "at this moment"],
+    "antonyms": ["then", "later", "before"]
+  }
+}

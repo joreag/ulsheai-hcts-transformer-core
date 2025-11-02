@@ -1,0 +1,13 @@
+{
+  "problem_description": "Dictionary: The word 'response'",
+  "level": 1,
+  "dependencies": ["linguistics/L0_nouns.json", "dictionary/q/query.json"],
+  "properties": {
+    "canonical_name": "response",
+    "part_of_speech": "noun",
+    "definition": "A verbal or written answer to a question.",
+    "example_sentence": "The cognitive engine generates a response based on the query mode.",
+    "synonyms": ["answer", "reply", "reaction"],
+    "antonyms": ["query", "question"]
+  }
+}

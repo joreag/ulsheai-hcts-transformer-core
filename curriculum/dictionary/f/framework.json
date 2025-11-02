@@ -1,0 +1,13 @@
+{
+  "problem_description": "Dictionary: The word 'framework'",
+  "level": 2,
+  "dependencies": ["linguistics/L0_nouns.json"],
+  "properties": {
+    "canonical_name": "framework",
+    "part_of_speech": "noun",
+    "definition": "A basic structure underlying a system, concept, or text.",
+    "example_sentence": "The MICT cycle is the conceptual framework for the entire project.",
+    "synonyms": ["structure", "scaffolding", "system", "architecture"],
+    "antonyms": ["disorganization", "chaos"]
+  }
+}

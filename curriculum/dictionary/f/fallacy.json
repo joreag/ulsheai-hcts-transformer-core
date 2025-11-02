@@ -1,0 +1,13 @@
+{
+  "problem_description": "Dictionary: The word 'fallacy'",
+  "level": 2,
+  "dependencies": ["linguistics/L0_nouns.json", "ontology/L2_logical_fallacies.json"],
+  "properties": {
+    "canonical_name": "fallacy",
+    "part_of_speech": "noun",
+    "definition": "A mistaken belief, especially one based on an unsound argument.",
+    "example_sentence": "Affirming the consequent is a common logical fallacy.",
+    "synonyms": ["misconception", "delusion", "error"],
+    "antonyms": ["truth", "axiom", "certainty"]
+  }
+}

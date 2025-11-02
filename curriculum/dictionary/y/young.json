@@ -1,0 +1,13 @@
+{
+  "problem_description": "Dictionary: The word 'young'",
+  "level": 0,
+  "dependencies": ["linguistics/L0_adjectives.json"],
+  "properties": {
+    "canonical_name": "young",
+    "part_of_speech": "adjective",
+    "definition": "Having lived or existed for only a short time.",
+    "example_sentence": "This AI is still young and has much to learn.",
+    "synonyms": ["new", "juvenile", "nascent"],
+    "antonyms": ["old", "mature", "aged"]
+  }
+}

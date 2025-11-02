@@ -1,0 +1,13 @@
+{
+  "problem_description": "Dictionary: The word 'so'",
+  "level": 0,
+  "dependencies": ["linguistics/L0_conjunctions.json", "linguistics/L0_adverbs.json"],
+  "properties": {
+    "canonical_name": "so",
+    "part_of_speech": "conjunction",
+    "definition": "And for this reason; therefore. Also used as an adverb for 'to such a great extent'.",
+    "example_sentence": "The curriculum was well-structured, so the AI learned quickly.",
+    "synonyms": ["therefore", "thus", "consequently"],
+    "antonyms": []
+  }
+}

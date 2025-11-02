@@ -1,0 +1,13 @@
+{
+  "problem_description": "Dictionary: The word 'hub'",
+  "level": 2,
+  "dependencies": ["linguistics/L0_nouns.json"],
+  "properties": {
+    "canonical_name": "hub",
+    "part_of_speech": "noun",
+    "definition": "The effective center of an activity, region, or network.",
+    "example_sentence": "The AI formed a conceptual hub around the idea of logic.",
+    "synonyms": ["center", "core", "nexus", "focus"],
+    "antonyms": ["periphery", "edge"]
+  }
+}

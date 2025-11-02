@@ -1,0 +1,13 @@
+{
+  "problem_description": "Dictionary: The word 'with'",
+  "level": 0,
+  "dependencies": ["linguistics/L0_prepositions.json"],
+  "properties": {
+    "canonical_name": "with",
+    "part_of_speech": "preposition",
+    "definition": "A preposition indicating accompaniment or inclusion.",
+    "example_sentence": "The AI works with a knowledge graph to ground its reasoning.",
+    "synonyms": ["alongside", "accompanying", "including"],
+    "antonyms": ["without", "excluding"]
+  }
+}

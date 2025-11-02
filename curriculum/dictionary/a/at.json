@@ -1,0 +1,13 @@
+{
+  "problem_description": "Dictionary: The word 'at'",
+  "level": 0,
+  "dependencies": ["linguistics/L0_prepositions.json"],
+  "properties": {
+    "canonical_name": "at",
+    "part_of_speech": "preposition",
+    "definition": "A preposition used to express location or a time when an event takes place.",
+    "example_sentence": "The model is at 99% accuracy and the training will finish at 3 PM.",
+    "synonyms": ["in", "on"],
+    "antonyms": []
+  }
+}

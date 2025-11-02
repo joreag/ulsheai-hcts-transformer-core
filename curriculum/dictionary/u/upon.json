@@ -1,0 +1,13 @@
+{
+  "problem_description": "Dictionary: The word 'upon'",
+  "level": 1,
+  "dependencies": ["linguistics/L0_prepositions.json", "dictionary/o/on.json"],
+  "properties": {
+    "canonical_name": "upon",
+    "part_of_speech": "preposition",
+    "definition": "A more formal term for 'on'.",
+    "example_sentence": "The system acts upon the instructions it is given.",
+    "synonyms": ["on", "on top of"],
+    "antonyms": ["under", "below"]
+  }
+}

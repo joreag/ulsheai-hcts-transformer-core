@@ -1,0 +1,13 @@
+{
+  "problem_description": "Dictionary: The word 'unlimited'",
+  "level": 2,
+  "dependencies": ["linguistics/L0_adjectives.json"],
+  "properties": {
+    "canonical_name": "unlimited",
+    "part_of_speech": "adjective",
+    "definition": "Not limited or restricted in terms of number, quantity, or extent.",
+    "example_sentence": "The potential for learning is theoretically unlimited.",
+    "synonyms": ["infinite", "boundless", "limitless", "unrestricted"],
+    "antonyms": ["limited", "finite", "restricted"]
+  }
+}

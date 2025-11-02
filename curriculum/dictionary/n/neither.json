@@ -1,0 +1,13 @@
+{
+  "problem_description": "Dictionary: The word 'neither'",
+  "level": 1,
+  "dependencies": ["linguistics/L0_conjunctions.json", "linguistics/L0_determiners.json"],
+  "properties": {
+    "canonical_name": "neither",
+    "part_of_speech": "conjunction",
+    "definition": "Used to introduce the first of two or more negative statements, which is then followed by 'nor'.",
+    "example_sentence": "The AI is neither a simple database nor a statistical parrot.",
+    "synonyms": ["not either"],
+    "antonyms": ["both", "either"]
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "problem_description": "Dictionary: The term 'X-ray'",
+  "level": 2,
+  "dependencies": ["linguistics/L0_nouns.json", "physics/L2_gravity.json"],
+  "properties": {
+    "canonical_name": "X-ray",
+    "part_of_speech": "noun",
+    "definition": "An electromagnetic wave of high energy and very short wavelength, which is able to pass through many materials opaque to light. Also, a photographic or digital image of the internal composition of something, especially a part of the body, produced by X-rays being passed through it and being absorbed to different degrees by different materials.",
+    "example_sentence": "A doctor may use an X-ray to see the bones inside a person's body.",
+    "synonyms": ["radiograph"],
+    "antonyms": []
+  }
+}

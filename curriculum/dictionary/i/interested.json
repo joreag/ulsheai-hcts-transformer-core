@@ -1,0 +1,13 @@
+{
+  "problem_description": "Dictionary: The word 'interested'",
+  "level": 1,
+  "dependencies": ["linguistics/L0_adjectives.json"],
+  "properties": {
+    "canonical_name": "interested",
+    "part_of_speech": "adjective",
+    "definition": "Showing curiosity or concern about something or someone; having a feeling of interest.",
+    "example_sentence": "The investor was interested in the project's efficiency.",
+    "synonyms": ["curious", "intrigued", "attentive"],
+    "antonyms": ["uninterested", "bored", "apathetic"]
+  }
+}

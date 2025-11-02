@@ -1,0 +1,13 @@
+{
+  "problem_description": "Dictionary: The word 'superior'",
+  "level": 1,
+  "dependencies": ["linguistics/L0_adjectives.json"],
+  "properties": {
+    "canonical_name": "superior",
+    "part_of_speech": "adjective",
+    "definition": "Higher in rank, status, or quality.",
+    "example_sentence": "A grounded reasoning process is superior to simple pattern matching.",
+    "synonyms": ["better", "greater", "higher", "surpassing"],
+    "antonyms": ["inferior", "worse", "lesser"]
+  }
+}

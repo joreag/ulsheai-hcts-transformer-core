@@ -1,0 +1,13 @@
+{
+  "problem_description": "Dictionary: The word 'influence'",
+  "level": 2,
+  "dependencies": ["linguistics/L0_nouns.json", "linguistics/L0_verbs.json"],
+  "properties": {
+    "canonical_name": "influence",
+    "part_of_speech": "noun",
+    "definition": "The capacity to have an effect on the character, development, or behavior of someone or something.",
+    "example_sentence": "The curriculum has a strong influence on the AI's final state.",
+    "synonyms": ["effect", "impact", "power", "leverage"],
+    "antonyms": ["powerlessness"]
+  }
+}

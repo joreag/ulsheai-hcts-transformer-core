@@ -1,0 +1,13 @@
+{
+  "problem_description": "Dictionary: The word 'universal'",
+  "level": 2,
+  "dependencies": ["linguistics/L0_adjectives.json"],
+  "properties": {
+    "canonical_name": "universal",
+    "part_of_speech": "adjective",
+    "definition": "Relating to or done by all people or things in the world or in a particular group; applicable to all cases.",
+    "example_sentence": "The laws of physics are assumed to be universal.",
+    "synonyms": ["general", "comprehensive", "all-inclusive"],
+    "antonyms": ["specific", "particular", "limited"]
+  }
+}

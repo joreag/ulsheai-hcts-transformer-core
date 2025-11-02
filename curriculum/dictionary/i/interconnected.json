@@ -1,0 +1,13 @@
+{
+  "problem_description": "Dictionary: The word 'interconnected'",
+  "level": 2,
+  "dependencies": ["linguistics/L0_adjectives.json", "ontology/L0_the_mobius_principle.json"],
+  "properties": {
+    "canonical_name": "interconnected",
+    "part_of_speech": "adjective",
+    "definition": "Having all constituent parts linked or connected.",
+    "example_sentence": "The Mobius Principle posits that reality is a deeply interconnected system.",
+    "synonyms": ["linked", "related", "connected", "unified"],
+    "antonyms": ["separate", "disconnected", "isolated"]
+  }
+}

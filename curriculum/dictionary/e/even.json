@@ -1,0 +1,13 @@
+{
+  "problem_description": "Dictionary: The word 'even'",
+  "level": 0,
+  "dependencies": ["linguistics/L0_adverbs.json"],
+  "properties": {
+    "canonical_name": "even",
+    "part_of_speech": "adverb",
+    "definition": "Used to emphasize something surprising or extreme.",
+    "example_sentence": "We can even train the model on a laptop.",
+    "synonyms": ["surprisingly", "in fact"],
+    "antonyms": []
+  }
+}

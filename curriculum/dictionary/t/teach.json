@@ -1,0 +1,13 @@
+{
+  "problem_description": "Dictionary: The word 'teach'",
+  "level": 1,
+  "dependencies": ["linguistics/L0_verbs.json", "dictionary/l/learn.json"],
+  "properties": {
+    "canonical_name": "teach",
+    "part_of_speech": "verb",
+    "definition": "To impart knowledge to or instruct someone as to how to do something.",
+    "example_sentence": "Our goal is to teach the AI how to reason from first principles.",
+    "synonyms": ["instruct", "educate", "train", "tutor"],
+    "antonyms": ["learn", "mislead"]
+  }
+}

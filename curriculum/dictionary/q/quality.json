@@ -1,0 +1,13 @@
+{
+  "problem_description": "Dictionary: The word 'quality'",
+  "level": 1,
+  "dependencies": ["linguistics/L0_nouns.json"],
+  "properties": {
+    "canonical_name": "quality",
+    "part_of_speech": "noun",
+    "definition": "The standard of something as measured against other things of a similar kind; the degree of excellence of something.",
+    "example_sentence": "The quality of the curriculum directly impacts the quality of the AI.",
+    "synonyms": ["standard", "grade", "caliber", "excellence"],
+    "antonyms": ["inferiority", "imperfection"]
+  }
+}

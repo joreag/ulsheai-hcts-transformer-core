@@ -1,0 +1,13 @@
+{
+  "problem_description": "Dictionary: The word 'theory'",
+  "level": 2,
+  "dependencies": ["linguistics/L0_nouns.json", "dictionary/h/hypothesis.json"],
+  "properties": {
+    "canonical_name": "theory",
+    "part_of_speech": "noun",
+    "definition": "A supposition or a system of ideas intended to explain something, especially one based on general principles independent of the thing to be explained.",
+    "example_sentence": "The MICT framework is a theory of cyclical transformation.",
+    "synonyms": ["hypothesis", "supposition", "framework", "ideology"],
+    "antonyms": ["practice", "fact", "proof"]
+  }
+}

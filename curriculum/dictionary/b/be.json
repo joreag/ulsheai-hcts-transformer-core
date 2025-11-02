@@ -1,0 +1,13 @@
+{
+  "problem_description": "Dictionary: The word 'be'",
+  "level": 0,
+  "dependencies": ["linguistics/L0_verbs.json"],
+  "properties": {
+    "canonical_name": "be",
+    "part_of_speech": "verb",
+    "definition": "To exist or live; to occur or take place.",
+    "example_sentence": "The system will be ready for testing.",
+    "synonyms": ["exist", "occur", "is", "are"],
+    "antonyms": []
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "problem_description": "Dictionary: The word 'physics'",
+  "level": 2,
+  "dependencies": ["linguistics/L0_nouns.json"],
+  "properties": {
+    "canonical_name": "physics",
+    "part_of_speech": "noun",
+    "definition": "The branch of science concerned with the nature and properties of matter and energy.",
+    "example_sentence": "The curriculum includes lessons on kinematics and thermodynamics, which are topics in physics.",
+    "synonyms": ["natural science"],
+    "antonyms": ["metaphysics"]
+  }
+}

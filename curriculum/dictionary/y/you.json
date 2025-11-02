@@ -1,0 +1,13 @@
+{
+  "problem_description": "Dictionary: The word 'you'",
+  "level": 0,
+  "dependencies": ["linguistics/L0_pronouns.json"],
+  "properties": {
+    "canonical_name": "you",
+    "part_of_speech": "pronoun",
+    "definition": "The pronoun used to refer to the person or people that the speaker is addressing.",
+    "example_sentence": "You are the human operator for this AI.",
+    "synonyms": [],
+    "antonyms": ["I", "me", "we"]
+  }
+}

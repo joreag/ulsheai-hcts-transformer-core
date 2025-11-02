@@ -1,0 +1,15 @@
+{
+  "problem_description": "Dictionary: The words 'notable' and 'noteworthy'",
+  "level": 1,
+  "dependencies": ["linguistics/L0_adjectives.json"],
+  "properties": {
+    "canonical_name": "Notable",
+    "part_of_speech": "adjective",
+    "definition": "Worthy of attention or notice; remarkable.",
+    "example_sentence": "The AI's emergent behavior is a noteworthy discovery.",
+    "solution_rules": [
+      "notable: worthy of attention or notice; remarkable",
+      "noteworthy: interesting, significant, or unusual"
+    ]
+  }
+}

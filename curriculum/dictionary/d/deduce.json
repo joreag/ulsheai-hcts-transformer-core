@@ -1,0 +1,13 @@
+{
+  "problem_description": "Dictionary: The word 'deduce'",
+  "level": 2,
+  "dependencies": ["linguistics/L0_verbs.json", "ontology/L1_deductive_syllogisms.json"],
+  "properties": {
+    "canonical_name": "deduce",
+    "part_of_speech": "verb",
+    "definition": "To arrive at a fact or a conclusion by reasoning; to draw as a logical conclusion.",
+    "example_sentence": "From the error message, we can deduce the root cause of the problem.",
+    "synonyms": ["conclude", "infer", "reason"],
+    "antonyms": ["guess", "assume", "conjecture"]
+  }
+}

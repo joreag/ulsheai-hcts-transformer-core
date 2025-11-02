@@ -1,0 +1,13 @@
+{
+  "problem_description": "Dictionary: The word 'quickly'",
+  "level": 0,
+  "dependencies": ["linguistics/L0_adverbs.json"],
+  "properties": {
+    "canonical_name": "quickly",
+    "part_of_speech": "adverb",
+    "definition": "At a fast speed; rapidly.",
+    "example_sentence": "The GPU can process the batches very quickly.",
+    "synonyms": ["rapidly", "fast", "swiftly", "speedily"],
+    "antonyms": ["slowly", "gradually"]
+  }
+}

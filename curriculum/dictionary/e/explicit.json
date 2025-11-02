@@ -1,0 +1,13 @@
+{
+  "problem_description": "Dictionary: The word 'explicit'",
+  "level": 1,
+  "dependencies": ["linguistics/L0_adjectives.json"],
+  "properties": {
+    "canonical_name": "explicit",
+    "part_of_speech": "adjective",
+    "definition": "Stated clearly and in detail, leaving no room for confusion or doubt.",
+    "example_sentence": "The system needs explicit instructions to perform the task.",
+    "synonyms": ["clear", "direct", "unambiguous", "specific"],
+    "antonyms": ["implicit", "vague", "ambiguous"]
+  }
+}

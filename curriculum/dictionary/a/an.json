@@ -1,0 +1,13 @@
+{
+  "problem_description": "Dictionary: The word 'an'",
+  "level": 0,
+  "dependencies": [],
+  "properties": {
+    "canonical_name": "an",
+    "part_of_speech": "indefinite_article",
+    "definition": "An indefinite article used before words beginning with a vowel sound.",
+    "example_sentence": "We built an amazing AI.",
+    "synonyms": ["a", "any", "one"],
+    "antonyms": ["the"]
+  }
+}

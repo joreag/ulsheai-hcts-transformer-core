@@ -1,0 +1,13 @@
+{
+  "problem_description": "Dictionary: The word 'entity'",
+  "level": 2,
+  "dependencies": ["linguistics/L0_nouns.json", "ontology/L5_sentience_verification.json"],
+  "properties": {
+    "canonical_name": "entity",
+    "part_of_speech": "noun",
+    "definition": "A thing with distinct and independent existence.",
+    "example_sentence": "A unified cognitive identity is the mark of a coherent entity.",
+    "synonyms": ["being", "organism", "system", "individual"],
+    "antonyms": ["fragment", "part", "component"]
+  }
+}

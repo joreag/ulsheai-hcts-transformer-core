@@ -1,0 +1,13 @@
+{
+  "problem_description": "Dictionary: The word 'space'",
+  "level": 2,
+  "dependencies": ["linguistics/L0_nouns.json"],
+  "properties": {
+    "canonical_name": "space",
+    "part_of_speech": "noun",
+    "definition": "A continuous area or expanse; the dimensions of height, depth, and width within which all things exist and move.",
+    "example_sentence": "The latent space is a high-dimensional conceptual space.",
+    "synonyms": ["area", "expanse", "dimension", "volume"],
+    "antonyms": []
+  }
+}

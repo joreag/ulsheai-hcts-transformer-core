@@ -1,0 +1,13 @@
+{
+  "problem_description": "Dictionary: The word 'join'",
+  "level": 1,
+  "dependencies": ["linguistics/L0_verbs.json", "dictionary/c/connect.json"],
+  "properties": {
+    "canonical_name": "join",
+    "part_of_speech": "verb",
+    "definition": "To link or connect; to put or bring together.",
+    "example_sentence": "A conjunction is used to join two independent clauses.",
+    "synonyms": ["connect", "unite", "link", "combine"],
+    "antonyms": ["separate", "split", "divide"]
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "problem_description": "Dictionary: The concepts 'Offline' and 'Online'",
+  "level": 1,
+  "dependencies": ["linguistics/L0_adjectives.json", "dictionary/n/network.json"],
+  "properties": {
+    "canonical_name": "Offline and Online",
+    "part_of_speech": "adjective",
+    "definition": "Describing the state of a system's connection to a network.",
+    "example_sentence": "The cognitive engine is online, but some learning can happen offline.",
+    "solution_rules": [
+      "online: connected to, served by, or available through a system and especially a computer or telecommunications network",
+      "offline: not connected to or served by a system, such as a computer or telecommunications network"
+    ]
+  }
+}

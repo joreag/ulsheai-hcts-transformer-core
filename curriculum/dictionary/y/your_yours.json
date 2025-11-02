@@ -1,0 +1,15 @@
+{
+  "problem_description": "Dictionary: The words 'your' and 'yours'",
+  "level": 0,
+  "dependencies": ["linguistics/L0_pronouns.json", "dictionary/y/you.json"],
+  "properties": {
+    "canonical_name": "Second-Person Possessive Pronouns",
+    "part_of_speech": "pronoun",
+    "definition": "Pronouns used to indicate possession by the person being addressed.",
+    "example_sentence": "Your query has been processed, and the result is yours.",
+    "solution_rules": [
+      "your: the possessive form of 'you', used before a noun",
+      "yours: the possessive form of 'you', used to refer to a thing or things belonging to the person being addressed"
+    ]
+  }
+}

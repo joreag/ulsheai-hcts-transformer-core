@@ -1,0 +1,13 @@
+{
+  "problem_description": "Dictionary: The word 'bias'",
+  "level": 2,
+  "dependencies": ["linguistics/L0_nouns.json", "ethics/L1_core_ethical_principles.json"],
+  "properties": {
+    "canonical_name": "bias",
+    "part_of_speech": "noun",
+    "definition": "Prejudice in favor of or against one thing, person, or group compared with another, usually in a way considered to be unfair.",
+    "example_sentence": "It is critical to train an AI on balanced data to avoid cognitive bias.",
+    "synonyms": ["prejudice", "partiality", "predisposition"],
+    "antonyms": ["fairness", "impartiality", "objectivity"]
+  }
+}

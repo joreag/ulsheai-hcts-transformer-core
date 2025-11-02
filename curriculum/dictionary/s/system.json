@@ -1,0 +1,13 @@
+{
+  "problem_description": "Dictionary: The word 'system'",
+  "level": 1,
+  "dependencies": ["linguistics/L0_nouns.json", "ontology/L2_hcts_architecture.json"],
+  "properties": {
+    "canonical_name": "system",
+    "part_of_speech": "noun",
+    "definition": "A set of connected things or parts forming a complex whole.",
+    "example_sentence": "The HCTS architecture defines a hierarchical system.",
+    "synonyms": ["structure", "framework", "network", "organization"],
+    "antonyms": ["chaos", "disorder", "fragment"]
+  }
+}

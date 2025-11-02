@@ -1,0 +1,13 @@
+{
+  "problem_description": "Dictionary: The word 'rely'",
+  "level": 1,
+  "dependencies": ["linguistics/L0_verbs.json", "dictionary/d/dependency.json"],
+  "properties": {
+    "canonical_name": "rely",
+    "part_of_speech": "verb",
+    "definition": "To depend on with full trust or confidence.",
+    "example_sentence": "The system must rely on its knowledge graph for ground truth.",
+    "synonyms": ["depend", "trust", "count on"],
+    "antonyms": ["distrust", "doubt"]
+  }
+}

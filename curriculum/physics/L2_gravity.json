@@ -1,0 +1,42 @@
+
+     {
+  "problem_description": "Level 2 Physics - Verifying Causality and Gravity",
+  "level": 2,
+  "dependencies": ["level-1-physics-newtons-laws"],
+  "hypothesis_templates": [
+    "final_velocity == initial_velocity + g * time",
+    "distance == initial_velocity * time + 0.5 * g * time**2"
+  ],
+  "training_data": [
+    {
+      "comment": "An object dropped from rest (initial_velocity=0) after 2 seconds.",
+      "g": 9.8, "time": 2, "initial_velocity": 0,
+      "final_velocity": 19.6,
+      "expected_result": true
+    },
+    {
+      "comment": "The distance the same object has fallen in 2 seconds.",
+      "g": 9.8, "time": 2, "initial_velocity": 0,
+      "distance": 19.6,
+      "expected_result": true
+    },
+    {
+      "comment": "An object THROWN downwards with an initial velocity.",
+      "g": 9.8, "time": 3, "initial_velocity": 5,
+      "final_velocity": 34.4,
+      "expected_result": true
+    },
+    {
+      "comment": "Negative Knowledge: Verifying that an incorrect final velocity fails the check.",
+      "g": 9.8, "time": 2, "initial_velocity": 0,
+      "final_velocity": 20.0,
+      "expected_result": false
+    },
+    {
+      "comment": "Negative Knowledge: Verifying that an incorrect distance fails the check.",
+      "g": 9.8, "time": 2, "initial_velocity": 0,
+      "distance": 20.0,
+      "expected_result": false
+    }
+  ]
+}

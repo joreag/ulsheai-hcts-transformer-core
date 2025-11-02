@@ -1,0 +1,13 @@
+{
+  "problem_description": "Dictionary: The word 'generate'",
+  "level": 1,
+  "dependencies": ["linguistics/L0_verbs.json"],
+  "properties": {
+    "canonical_name": "generate",
+    "part_of_speech": "verb",
+    "definition": "To cause something to arise or come about; to produce.",
+    "example_sentence": "The engine can generate a response by synthesizing concepts.",
+    "synonyms": ["create", "produce", "formulate", "make"],
+    "antonyms": ["destroy", "terminate"]
+  }
+}

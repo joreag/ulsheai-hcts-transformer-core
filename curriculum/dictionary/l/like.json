@@ -1,0 +1,13 @@
+{
+  "problem_description": "Dictionary: The word 'like'",
+  "level": 0,
+  "dependencies": ["linguistics/L0_prepositions.json", "linguistics/L0_verbs.json"],
+  "properties": {
+    "canonical_name": "like",
+    "part_of_speech": "preposition",
+    "definition": "Having the same characteristics or qualities as; similar to.",
+    "example_sentence": "GUARDIAN PRIME is like a specialized sibling to JARVITS.",
+    "synonyms": ["similar to", "akin to", "analogous to"],
+    "antonyms": ["unlike", "different from"]
+  }
+}

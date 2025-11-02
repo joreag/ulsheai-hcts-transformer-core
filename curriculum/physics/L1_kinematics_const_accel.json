@@ -1,0 +1,25 @@
+{
+  "problem_description": "Level 1 Physics - Kinematics (Constant Acceleration)",
+  "level": 1,
+  "dependencies": ["Level 1 Physics - Newton's Second Law (F=ma)"],
+  "hypothesis_templates": [
+    "velocity_final == velocity_initial + acceleration * time"
+  ],
+  "training_data": [
+    {
+      "comment": "Verifying final velocity from constant acceleration.",
+      "velocity_final": 50, "velocity_initial": 10, "acceleration": 4, "time": 10,
+      "expected_result": true
+    },
+    {
+      "comment": "Verifying from rest.",
+      "velocity_final": 19.6, "velocity_initial": 0, "acceleration": 9.8, "time": 2,
+      "expected_result": true
+    },
+    {
+      "comment": "Negative Knowledge: Incorrect calculation.",
+      "velocity_final": 50, "velocity_initial": 10, "acceleration": 4, "time": 5,
+      "expected_result": false
+    }
+  ]
+}

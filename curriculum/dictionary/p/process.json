@@ -1,0 +1,13 @@
+{
+  "problem_description": "Dictionary: The word 'process'",
+  "level": 1,
+  "dependencies": ["linguistics/L0_nouns.json", "ontology/L1_the_mict_cycle.json"],
+  "properties": {
+    "canonical_name": "process",
+    "part_of_speech": "noun",
+    "definition": "A series of actions or steps taken in order to achieve a particular end.",
+    "example_sentence": "The MICT cycle is a four-stage process for transformation.",
+    "synonyms": ["procedure", "operation", "system", "method"],
+    "antonyms": ["stasis", "inaction"]
+  }
+}

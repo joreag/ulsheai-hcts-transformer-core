@@ -1,0 +1,13 @@
+{
+  "problem_description": "Dictionary: The word 'prevention'",
+  "level": 2,
+  "dependencies": ["linguistics/L0_nouns.json"],
+  "properties": {
+    "canonical_name": "prevention",
+    "part_of_speech": "noun",
+    "definition": "The action of stopping something from happening or arising.",
+    "example_sentence": "GUARDIAN PRIME's function is threat prevention.",
+    "synonyms": ["deterrence", "hindrance", "avoidance"],
+    "antonyms": ["permission", "facilitation"]
+  }
+}

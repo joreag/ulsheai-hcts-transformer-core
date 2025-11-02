@@ -1,0 +1,13 @@
+{
+  "problem_description": "Dictionary: The word 'cause'",
+  "level": 1,
+  "dependencies": ["linguistics/L0_nouns.json"],
+  "properties": {
+    "canonical_name": "cause",
+    "part_of_speech": "noun",
+    "definition": "A person or thing that gives rise to an action, phenomenon, or condition.",
+    "example_sentence": "The bug was the cause of the system failure.",
+    "synonyms": ["reason", "source", "origin"],
+    "antonyms": ["effect", "result", "consequence"]
+  }
+}

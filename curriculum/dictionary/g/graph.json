@@ -1,0 +1,13 @@
+{
+  "problem_description": "Dictionary: The word 'graph'",
+  "level": 1,
+  "dependencies": ["linguistics/L0_nouns.json"],
+  "properties": {
+    "canonical_name": "graph",
+    "part_of_speech": "noun",
+    "definition": "A structure amounting to a set of objects in which some pairs of the objects are in some sense 'related'.",
+    "example_sentence": "The knowledge graph connects concepts with logical dependencies.",
+    "synonyms": ["network", "web", "lattice", "diagram"],
+    "antonyms": []
+  }
+}

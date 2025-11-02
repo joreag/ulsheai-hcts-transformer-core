@@ -1,0 +1,13 @@
+{
+  "problem_description": "Dictionary: The word 'of'",
+  "level": 0,
+  "dependencies": ["linguistics/L0_prepositions.json"],
+  "properties": {
+    "canonical_name": "of",
+    "part_of_speech": "preposition",
+    "definition": "A preposition expressing the relationship between a part and a whole or belonging.",
+    "example_sentence": "The principles of the MICT cycle are foundational.",
+    "synonyms": [],
+    "antonyms": []
+  }
+}

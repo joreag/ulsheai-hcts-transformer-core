@@ -1,0 +1,13 @@
+{
+  "problem_description": "Dictionary: The word 'data'",
+  "level": 1,
+  "dependencies": ["linguistics/L0_nouns.json", "ontology/L0_existence_of_data.json"],
+  "properties": {
+    "canonical_name": "data",
+    "part_of_speech": "noun",
+    "definition": "Facts and statistics collected together for reference or analysis.",
+    "example_sentence": "The training data must be clean and have a high signal-to-noise ratio.",
+    "synonyms": ["information", "facts", "statistics", "input"],
+    "antonyms": ["noise", "misinformation"]
+  }
+}

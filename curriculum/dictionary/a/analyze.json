@@ -1,0 +1,13 @@
+{
+  "problem_description": "Dictionary: The word 'analyze'",
+  "level": 1,
+  "dependencies": ["linguistics/L0_verbs.json"],
+  "properties": {
+    "canonical_name": "analyze",
+    "part_of_speech": "verb",
+    "definition": "To examine methodically and in detail the constitution or structure of something, typically for purposes of explanation and interpretation.",
+    "example_sentence": "We need to analyze the results of the training run.",
+    "synonyms": ["examine", "inspect", "scrutinize"],
+    "antonyms": ["synthesize", "guess"]
+  }
+}

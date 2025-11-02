@@ -1,0 +1,13 @@
+{
+  "problem_description": "Dictionary: The word 'imply'",
+  "level": 2,
+  "dependencies": ["linguistics/L0_verbs.json"],
+  "properties": {
+    "canonical_name": "imply",
+    "part_of_speech": "verb",
+    "definition": "To strongly suggest the truth or existence of something not expressly stated.",
+    "example_sentence": "The test results imply that the model is learning.",
+    "synonyms": ["suggest", "insinuate", "hint"],
+    "antonyms": ["state", "declare", "assert"]
+  }
+}

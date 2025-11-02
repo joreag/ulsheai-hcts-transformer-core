@@ -1,0 +1,13 @@
+{
+  "problem_description": "Dictionary: The word 'language'",
+  "level": 1,
+  "dependencies": ["linguistics/L0_nouns.json"],
+  "properties": {
+    "canonical_name": "language",
+    "part_of_speech": "noun",
+    "definition": "The method of human communication, either spoken or written, consisting of the use of words in a structured and conventional way.",
+    "example_sentence": "The linguistics curriculum teaches the AI the structure of language.",
+    "synonyms": ["speech", "communication", "prose", "text"],
+    "antonyms": []
+  }
+}

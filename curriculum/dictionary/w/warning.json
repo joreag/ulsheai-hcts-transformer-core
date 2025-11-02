@@ -1,0 +1,13 @@
+{
+  "problem_description": "Dictionary: The word 'warning'",
+  "level": 1,
+  "dependencies": ["linguistics/L0_nouns.json"],
+  "properties": {
+    "canonical_name": "warning",
+    "part_of_speech": "noun",
+    "definition": "A statement or event that indicates a possible or impending danger, problem, or other unpleasant situation.",
+    "example_sentence": "The system generated a warning about the high semantic error.",
+    "synonyms": ["alert", "caution", "admonition", "notice"],
+    "antonyms": ["assurance", "guarantee"]
+  }
+}

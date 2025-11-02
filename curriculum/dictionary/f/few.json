@@ -1,0 +1,13 @@
+{
+  "problem_description": "Dictionary: The word 'few'",
+  "level": 0,
+  "dependencies": ["linguistics/L0_determiners.json", "linguistics/L0_adjectives.json"],
+  "properties": {
+    "canonical_name": "few",
+    "part_of_speech": "determiner",
+    "definition": "A small number of.",
+    "example_sentence": "Fine-tuning may only require a few epochs.",
+    "synonyms": ["some", "several", "a handful"],
+    "antonyms": ["many", "all"]
+  }
+}

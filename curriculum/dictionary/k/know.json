@@ -1,0 +1,13 @@
+{
+  "problem_description": "Dictionary: The word 'know'",
+  "level": 1,
+  "dependencies": ["linguistics/L0_verbs.json"],
+  "properties": {
+    "canonical_name": "know",
+    "part_of_speech": "verb",
+    "definition": "To have knowledge or information in one's mind; to be aware of through observation, inquiry, or information.",
+    "example_sentence": "The AI must know its own limitations.",
+    "synonyms": ["understand", "comprehend", "recognize"],
+    "antonyms": ["be ignorant of", "misunderstand"]
+  }
+}

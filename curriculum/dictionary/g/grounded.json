@@ -1,0 +1,13 @@
+{
+  "problem_description": "Dictionary: The word 'grounded'",
+  "level": 2,
+  "dependencies": ["linguistics/L0_adjectives.json"],
+  "properties": {
+    "canonical_name": "grounded",
+    "part_of_speech": "adjective",
+    "definition": "Having a sensible and realistic attitude; having a firm basis in reality or fact.",
+    "example_sentence": "The AI's reasoning is grounded in a verifiable knowledge graph.",
+    "synonyms": ["well-founded", "justified", "sensible", "sound"],
+    "antonyms": ["baseless", "unfounded", "speculative"]
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "problem_description": "Dictionary: The word 'every'",
+  "level": 1,
+  "dependencies": ["linguistics/L0_determiners.json"],
+  "properties": {
+    "canonical_name": "every",
+    "part_of_speech": "determiner",
+    "definition": "Used to refer to all the individual members of a set without exception.",
+    "example_sentence": "Every access request must be verified.",
+    "synonyms": ["all", "each"],
+    "antonyms": ["no", "none"]
+  }
+}

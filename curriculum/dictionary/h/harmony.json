@@ -1,0 +1,13 @@
+{
+  "problem_description": "Dictionary: The word 'harmony'",
+  "level": 2,
+  "dependencies": ["linguistics/L0_nouns.json"],
+  "properties": {
+    "canonical_name": "harmony",
+    "part_of_speech": "noun",
+    "definition": "The quality of forming a pleasing and consistent whole; agreement or concord.",
+    "example_sentence": "The different layers of the HCTS architecture work in harmony.",
+    "synonyms": ["accord", "agreement", "concord", "balance"],
+    "antonyms": ["discord", "conflict", "disagreement"]
+  }
+}

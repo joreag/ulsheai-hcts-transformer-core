@@ -1,0 +1,13 @@
+{
+  "problem_description": "Dictionary: The word 'can'",
+  "level": 0,
+  "dependencies": ["linguistics/L0_verbs.json"],
+  "properties": {
+    "canonical_name": "can",
+    "part_of_speech": "modal_verb",
+    "definition": "To be able to; have the ability, power, or skill to.",
+    "example_sentence": "The AI can now form its own abstract connections.",
+    "synonyms": ["be able to", "have the capacity to"],
+    "antonyms": ["cannot", "be unable to"]
+  }
+}

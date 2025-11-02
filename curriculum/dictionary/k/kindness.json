@@ -1,0 +1,13 @@
+{
+  "problem_description": "Dictionary: The word 'kindness'",
+  "level": 2,
+  "dependencies": ["linguistics/L0_nouns.json", "social_etiquette/L2_politeness_and_hedging.json"],
+  "properties": {
+    "canonical_name": "kindness",
+    "part_of_speech": "noun",
+    "definition": "The quality of being friendly, generous, and considerate.",
+    "example_sentence": "Politeness and kindness are important principles for communication.",
+    "synonyms": ["generosity", "warmth", "compassion", "consideration"],
+    "antonyms": ["cruelty", "meanness", "unkindness"]
+  }
+}

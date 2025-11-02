@@ -1,0 +1,13 @@
+{
+  "problem_description": "Dictionary: The word 'health'",
+  "level": 1,
+  "dependencies": ["linguistics/L0_nouns.json"],
+  "properties": {
+    "canonical_name": "health",
+    "part_of_speech": "noun",
+    "definition": "The state of being free from illness or injury; a person's mental or physical condition.",
+    "example_sentence": "The L4 Guardian monitors the overall health of the system.",
+    "synonyms": ["well-being", "fitness", "condition", "soundness"],
+    "antonyms": ["illness", "sickness", "disease"]
+  }
+}

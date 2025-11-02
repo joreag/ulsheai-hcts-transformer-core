@@ -1,0 +1,13 @@
+{
+  "problem_description": "Dictionary: The word 'reference'",
+  "level": 1,
+  "dependencies": ["linguistics/L0_nouns.json", "linguistics/L0_verbs.json"],
+  "properties": {
+    "canonical_name": "reference",
+    "part_of_speech": "noun",
+    "definition": "The action of mentioning or alluding to something; the use of a source of information in order to ascertain something.",
+    "example_sentence": "The grounded mode uses the knowledge graph as a reference.",
+    "synonyms": ["source", "citation", "allusion"],
+    "antonyms": []
+  }
+}

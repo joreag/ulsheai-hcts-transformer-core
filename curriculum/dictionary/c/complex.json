@@ -1,0 +1,13 @@
+{
+  "problem_description": "Dictionary: The word 'complex'",
+  "level": 1,
+  "dependencies": ["linguistics/L0_adjectives.json"],
+  "properties": {
+    "canonical_name": "complex",
+    "part_of_speech": "adjective",
+    "definition": "Consisting of many different and connected parts; not easy to analyze or understand.",
+    "example_sentence": "We are building a complex AI system.",
+    "synonyms": ["intricate", "complicated", "sophisticated"],
+    "antonyms": ["simple", "straightforward", "uncomplicated"]
+  }
+}

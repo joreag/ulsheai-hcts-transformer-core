@@ -1,0 +1,13 @@
+{
+  "problem_description": "Dictionary: The word 'innovation'",
+  "level": 3,
+  "dependencies": ["linguistics/L0_nouns.json"],
+  "properties": {
+    "canonical_name": "innovation",
+    "part_of_speech": "noun",
+    "definition": "The action or process of innovating; a new method, idea, or product.",
+    "example_sentence": "True synthesis is a form of cognitive innovation.",
+    "synonyms": ["novelty", "modernization", "invention"],
+    "antonyms": ["stagnation", "tradition"]
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "problem_description": "Dictionary: The word 'soon'",
+  "level": 0,
+  "dependencies": ["linguistics/L0_adverbs.json"],
+  "properties": {
+    "canonical_name": "soon",
+    "part_of_speech": "adverb",
+    "definition": "In or after a short time.",
+    "example_sentence": "The new hardware will be arriving soon.",
+    "synonyms": ["shortly", "presently", "in a little while"],
+    "antonyms": ["later", "never"]
+  }
+}

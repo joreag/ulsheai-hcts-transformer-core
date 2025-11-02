@@ -1,0 +1,13 @@
+{
+  "problem_description": "Dictionary: The word 'represent'",
+  "level": 1,
+  "dependencies": ["linguistics/L0_verbs.json"],
+  "properties": {
+    "canonical_name": "represent",
+    "part_of_speech": "verb",
+    "definition": "To constitute; to amount to. To stand as a symbol of.",
+    "example_sentence": "Each node in the graph is meant to represent a single concept.",
+    "synonyms": ["symbolize", "embody", "constitute", "stand for"],
+    "antonyms": []
+  }
+}

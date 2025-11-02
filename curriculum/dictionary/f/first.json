@@ -1,0 +1,13 @@
+{
+  "problem_description": "Dictionary: The word 'first'",
+  "level": 0,
+  "dependencies": ["linguistics/L0_adjectives.json", "linguistics/L0_adverbs.json"],
+  "properties": {
+    "canonical_name": "first",
+    "part_of_speech": "adjective",
+    "definition": "Coming before all others in time or order; earliest.",
+    "example_sentence": "The first step is to map the current state.",
+    "synonyms": ["initial", "foremost", "primary", "original"],
+    "antonyms": ["last", "final", "secondary"]
+  }
+}

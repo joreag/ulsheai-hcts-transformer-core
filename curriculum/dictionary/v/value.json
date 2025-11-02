@@ -1,0 +1,13 @@
+{
+  "problem_description": "Dictionary: The word 'value'",
+  "level": 1,
+  "dependencies": ["linguistics/L0_nouns.json"],
+  "properties": {
+    "canonical_name": "value",
+    "part_of_speech": "noun",
+    "definition": "The regard that something is held to deserve; the importance, worth, or usefulness of something.",
+    "example_sentence": "The true value of this AI is its efficiency and logical consistency.",
+    "synonyms": ["worth", "usefulness", "importance", "merit"],
+    "antonyms": ["worthlessness"]
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "problem_description": "Dictionary: The word 'introduction'",
+  "level": 1,
+  "dependencies": ["linguistics/L0_nouns.json"],
+  "properties": {
+    "canonical_name": "introduction",
+    "part_of_speech": "noun",
+    "definition": "The action of introducing something; a formal presentation of one person to another.",
+    "example_sentence": "The introduction of the dictionary curriculum was a key step.",
+    "synonyms": ["launch", "presentation", "beginning"],
+    "antonyms": ["conclusion", "removal"]
+  }
+}

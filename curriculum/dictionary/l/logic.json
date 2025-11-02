@@ -1,0 +1,13 @@
+{
+  "problem_description": "Dictionary: The word 'logic'",
+  "level": 2,
+  "dependencies": ["linguistics/L0_nouns.json", "ontology/L1_deductive_syllogisms.json"],
+  "properties": {
+    "canonical_name": "logic",
+    "part_of_speech": "noun",
+    "definition": "Reasoning conducted or assessed according to strict principles of validity.",
+    "example_sentence": "The AI's ability to connect physics and syllogisms demonstrates an understanding of logic.",
+    "synonyms": ["reasoning", "sense", "rationale", "validity"],
+    "antonyms": ["fallacy", "illogic", "irrationality"]
+  }
+}

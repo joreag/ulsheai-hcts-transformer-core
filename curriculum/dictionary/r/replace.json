@@ -1,0 +1,13 @@
+{
+  "problem_description": "Dictionary: The word 'replace'",
+  "level": 1,
+  "dependencies": ["linguistics/L0_verbs.json"],
+  "properties": {
+    "canonical_name": "replace",
+    "part_of_speech": "verb",
+    "definition": "To take the place of; to provide a substitute for something.",
+    "example_sentence": "We can replace the old model file with the newly trained version.",
+    "synonyms": ["substitute", "supplant", "supersede"],
+    "antonyms": ["keep", "preserve"]
+  }
+}

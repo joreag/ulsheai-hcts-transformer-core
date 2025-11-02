@@ -1,0 +1,13 @@
+{
+  "problem_description": "Dictionary: The word 'the'",
+  "level": 0,
+  "dependencies": ["linguistics/L0_determiners.json"],
+  "properties": {
+    "canonical_name": "the",
+    "part_of_speech": "definite_article",
+    "definition": "A determiner used to denote one or more people or things already mentioned, assumed to be common knowledge, or uniquely specified.",
+    "example_sentence": "The cognitive engine is the core of the system.",
+    "synonyms": [],
+    "antonyms": ["a", "an"]
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "problem_description": "Dictionary: The word 'get'",
+  "level": 0,
+  "dependencies": ["linguistics/L0_verbs.json"],
+  "properties": {
+    "canonical_name": "get",
+    "part_of_speech": "verb",
+    "definition": "To come to have or hold; receive.",
+    "example_sentence": "Let's get the results from the latest test run.",
+    "synonyms": ["receive", "obtain", "acquire"],
+    "antonyms": ["give", "lose"]
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "problem_description": "Dictionary: The word 'how'",
+  "level": 0,
+  "dependencies": ["linguistics/L0_adverbs.json"],
+  "properties": {
+    "canonical_name": "how",
+    "part_of_speech": "adverb",
+    "definition": "In what way or manner; by what means.",
+    "example_sentence": "We are studying how the AI learns.",
+    "synonyms": ["in what way", "by what method"],
+    "antonyms": []
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "problem_description": "Dictionary: The word 'ontology'",
+  "level": 3,
+  "dependencies": ["linguistics/L0_nouns.json", "ontology/L0_the_mobius_principle.json"],
+  "properties": {
+    "canonical_name": "ontology",
+    "part_of_speech": "noun",
+    "definition": "The branch of metaphysics dealing with the nature of being; a set of concepts showing their properties and the relations between them.",
+    "example_sentence": "The AI's ontology curriculum defines its understanding of itself.",
+    "synonyms": ["metaphysics", "worldview", "conceptual_framework"],
+    "antonyms": []
+  }
+}

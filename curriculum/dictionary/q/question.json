@@ -1,0 +1,13 @@
+{
+  "problem_description": "Dictionary: The word 'question'",
+  "level": 0,
+  "dependencies": ["linguistics/L0_nouns.json", "dictionary/q/query.json"],
+  "properties": {
+    "canonical_name": "question",
+    "part_of_speech": "noun",
+    "definition": "A sentence worded or expressed so as to elicit information.",
+    "example_sentence": "The user asked a question about the nature of logic.",
+    "synonyms": ["query", "inquiry", "interrogation"],
+    "antonyms": ["answer", "response", "statement"]
+  }
+}

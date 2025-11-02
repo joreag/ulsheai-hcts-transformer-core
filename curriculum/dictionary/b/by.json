@@ -1,0 +1,13 @@
+{
+  "problem_description": "Dictionary: The word 'by'",
+  "level": 0,
+  "dependencies": ["linguistics/L0_prepositions.json"],
+  "properties": {
+    "canonical_name": "by",
+    "part_of_speech": "preposition",
+    "definition": "Indicating the agent performing an action, or the means of achieving something.",
+    "example_sentence": "The curriculum was designed by a human and an AI.",
+    "synonyms": ["via", "through", "using"],
+    "antonyms": []
+  }
+}

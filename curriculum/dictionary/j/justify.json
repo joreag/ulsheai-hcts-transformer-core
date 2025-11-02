@@ -1,0 +1,13 @@
+{
+  "problem_description": "Dictionary: The word 'justify'",
+  "level": 2,
+  "dependencies": ["linguistics/L0_verbs.json"],
+  "properties": {
+    "canonical_name": "justify",
+    "part_of_speech": "verb",
+    "definition": "To show or prove to be right or reasonable.",
+    "example_sentence": "The AI must be able to justify its decisions with a logical audit trail.",
+    "synonyms": ["explain", "defend", "vindicate", "warrant"],
+    "antonyms": ["contradict", "invalidate"]
+  }
+}

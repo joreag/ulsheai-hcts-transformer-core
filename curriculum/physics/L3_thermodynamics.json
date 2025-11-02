@@ -1,0 +1,39 @@
+
+     {
+  "problem_description": "Level 3 Physics - Verifying Basic Thermodynamics",
+  "level": 3,
+  "dependencies": ["level-1-logic-syllogisms", "level-1-inequalities"],
+  "hypothesis_templates": [
+    "(tempA == tempB and tempB == tempC) implies (tempA == tempC)",
+    "initial_temp_A > initial_temp_B",
+    "final_temp_A < initial_temp_A and final_temp_B > initial_temp_B"
+  ],
+  "training_data": [
+    {
+      "comment": "Zeroth Law: Verifying thermal equilibrium logic.",
+      "tempA": 100, "tempB": 100, "tempC": 100,
+      "expected_result": true
+    },
+    {
+      "comment": "Zeroth Law: Negative Knowledge - If A=B but B!=C, then A!=C is not guaranteed by the law, but the implication holds.",
+      "tempA": 100, "tempB": 100, "tempC": 90,
+      "expected_result": true
+    },
+    {
+      "comment": "2nd Law: Verifying that heat will flow from hot object A to cool object B.",
+      "initial_temp_A": 80, "initial_temp_B": 20,
+      "expected_result": true
+    },
+    {
+      "comment": "2nd Law: Verifying the result of that heat flow - A cools down, B warms up.",
+      "initial_temp_A": 80, "initial_temp_B": 20,
+      "final_temp_A": 60, "final_temp_B": 40,
+      "expected_result": true
+    },
+    {
+      "comment": "Negative Knowledge: Heat does not flow from cold to hot.",
+      "initial_temp_A": 20, "initial_temp_B": 80,
+      "expected_result": false
+    }
+  ]
+}

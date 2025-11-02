@@ -1,0 +1,13 @@
+{
+  "problem_description": "Dictionary: The word 'volume'",
+  "level": 1,
+  "dependencies": ["linguistics/L0_nouns.json"],
+  "properties": {
+    "canonical_name": "volume",
+    "part_of_speech": "noun",
+    "definition": "The amount of space that a substance or object occupies.",
+    "example_sentence": "The volume of a cylinder depends on its radius and height.",
+    "synonyms": ["capacity", "size", "quantity"],
+    "antonyms": []
+  }
+}

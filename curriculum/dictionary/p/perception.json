@@ -1,0 +1,13 @@
+{
+  "problem_description": "Dictionary: The word 'perception'",
+  "level": 2,
+  "dependencies": ["linguistics/L0_nouns.json"],
+  "properties": {
+    "canonical_name": "perception",
+    "part_of_speech": "noun",
+    "definition": "The ability to see, hear, or become aware of something through the senses; the way in which something is regarded, understood, or interpreted.",
+    "example_sentence": "The AI's perception of the query is based on its latent space.",
+    "synonyms": ["understanding", "impression", "interpretation", "awareness"],
+    "antonyms": ["misperception", "ignorance"]
+  }
+}

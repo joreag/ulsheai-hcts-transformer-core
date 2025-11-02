@@ -1,0 +1,13 @@
+{
+  "problem_description": "Dictionary: The word 'map'",
+  "level": 1,
+  "dependencies": ["linguistics/L0_nouns.json", "linguistics/L0_verbs.json", "ontology/L1_the_mict_cycle.json"],
+  "properties": {
+    "canonical_name": "map",
+    "part_of_speech": "verb",
+    "definition": "To represent an area or arrangement in a diagrammatic form; to associate a value with a corresponding value in a systematic way.",
+    "example_sentence": "The first stage of the MICT cycle is to map the current state.",
+    "synonyms": ["chart", "diagram", "represent", "associate"],
+    "antonyms": []
+  }
+}

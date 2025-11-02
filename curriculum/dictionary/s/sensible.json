@@ -1,0 +1,13 @@
+{
+  "problem_description": "Dictionary: The word 'sensible'",
+  "level": 1,
+  "dependencies": ["linguistics/L0_adjectives.json", "dictionary/s/sense.json"],
+  "properties": {
+    "canonical_name": "sensible",
+    "part_of_speech": "adjective",
+    "definition": "Done or chosen in accordance with wisdom or prudence; likely to be of benefit.",
+    "example_sentence": "Building a curriculum from first principles is a sensible approach.",
+    "synonyms": ["wise", "prudent", "reasonable", "logical"],
+    "antonyms": ["foolish", "unwise", "senseless", "irrational"]
+  }
+}

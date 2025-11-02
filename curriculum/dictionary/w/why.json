@@ -1,0 +1,13 @@
+{
+  "problem_description": "Dictionary: The word 'why'",
+  "level": 1,
+  "dependencies": ["linguistics/L0_adverbs.json"],
+  "properties": {
+    "canonical_name": "why",
+    "part_of_speech": "adverb",
+    "definition": "An interrogative word asking for what reason or purpose.",
+    "example_sentence": "Why did the model choose that specific concept?",
+    "synonyms": ["for what reason", "for what purpose"],
+    "antonyms": []
+  }
+}

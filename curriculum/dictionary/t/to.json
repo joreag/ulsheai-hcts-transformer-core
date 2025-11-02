@@ -1,0 +1,13 @@
+{
+  "problem_description": "Dictionary: The word 'to'",
+  "level": 0,
+  "dependencies": ["linguistics/L0_prepositions.json"],
+  "properties": {
+    "canonical_name": "to",
+    "part_of_speech": "preposition",
+    "definition": "A preposition expressing motion in the direction of a particular location or a point on a scale.",
+    "example_sentence": "We are adding new lessons to the curriculum.",
+    "synonyms": ["toward", "into"],
+    "antonyms": ["from"]
+  }
+}

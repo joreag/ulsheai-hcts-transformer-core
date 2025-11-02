@@ -1,0 +1,13 @@
+{
+  "problem_description": "Dictionary: The word 'inform'",
+  "level": 1,
+  "dependencies": ["linguistics/L0_verbs.json"],
+  "properties": {
+    "canonical_name": "inform",
+    "part_of_speech": "verb",
+    "definition": "To give someone facts or information; to tell.",
+    "example_sentence": "The L4 Guardian will inform the human operator of any critical alerts.",
+    "synonyms": ["tell", "notify", "advise", "apprise"],
+    "antonyms": ["conceal", "misinform"]
+  }
+}

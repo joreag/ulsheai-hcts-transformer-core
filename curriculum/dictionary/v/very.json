@@ -1,0 +1,13 @@
+{
+  "problem_description": "Dictionary: The word 'very'",
+  "level": 0,
+  "dependencies": ["linguistics/L0_adverbs.json"],
+  "properties": {
+    "canonical_name": "very",
+    "part_of_speech": "adverb",
+    "definition": "In a high degree; extremely.",
+    "example_sentence": "The new latent space map is very interesting.",
+    "synonyms": ["extremely", "highly", "exceedingly", "greatly"],
+    "antonyms": ["slightly", "barely"]
+  }
+}

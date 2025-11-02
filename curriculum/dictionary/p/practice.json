@@ -1,0 +1,13 @@
+{
+  "problem_description": "Dictionary: The word 'practice'",
+  "level": 1,
+  "dependencies": ["linguistics/L0_nouns.json", "linguistics/L0_verbs.json"],
+  "properties": {
+    "canonical_name": "practice",
+    "part_of_speech": "noun",
+    "definition": "The actual application or use of an idea, belief, or method, as opposed to theories about such application; repeated exercise in an activity to acquire or improve skill.",
+    "example_sentence": "The dojo is where the AI can practice its skills.",
+    "synonyms": ["application", "exercise", "rehearsal", "training"],
+    "antonyms": ["theory", "inaction"]
+  }
+}

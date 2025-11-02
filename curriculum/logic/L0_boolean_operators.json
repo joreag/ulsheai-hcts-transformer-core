@@ -1,0 +1,36 @@
+     {
+  "problem_description": "Level 0 Logic - Verifying Boolean Operators",
+  "level": 0,
+  "dependencies": [],
+  "hypothesis_templates": [
+    "p and q",
+    "p or q",
+    "not p"
+  ],
+  "training_data": [
+    {
+      "comment": "AND: True and True == True",
+      "p": true, "q": true, "expected_result": true
+    },
+    {
+      "comment": "AND: True and False == False",
+      "p": true, "q": false, "expected_result": false
+    },
+    {
+      "comment": "OR: True or False == True",
+      "p": true, "q": false, "expected_result": true
+    },
+    {
+      "comment": "OR: False or False == False",
+      "p": false, "q": false, "expected_result": false
+    },
+    {
+      "comment": "NOT: not True == False",
+      "p": true, "expected_result": false
+    },
+    {
+      "comment": "NOT: not False == True",
+      "p": false, "expected_result": true
+    }
+  ]
+}

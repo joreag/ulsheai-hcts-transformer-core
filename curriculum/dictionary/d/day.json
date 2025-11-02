@@ -1,0 +1,13 @@
+{
+  "problem_description": "Dictionary: The word 'day'",
+  "level": 0,
+  "dependencies": ["linguistics/L0_nouns.json"],
+  "properties": {
+    "canonical_name": "day",
+    "part_of_speech": "noun",
+    "definition": "A period of twenty-four hours as a unit of time.",
+    "example_sentence": "The training took more than a day to complete.",
+    "synonyms": ["date"],
+    "antonyms": ["night"]
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "problem_description": "Dictionary: The word 'cognitive'",
+  "level": 2,
+  "dependencies": ["linguistics/L0_adjectives.json"],
+  "properties": {
+    "canonical_name": "cognitive",
+    "part_of_speech": "adjective",
+    "definition": "Relating to the mental action or process of acquiring knowledge and understanding through thought, experience, and the senses.",
+    "example_sentence": "The latent space mapper provides a view into the AI's cognitive structure.",
+    "synonyms": ["mental", "intellectual", "rational", "thinking"],
+    "antonyms": ["physical", "emotional"]
+  }
+}

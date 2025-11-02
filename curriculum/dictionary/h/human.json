@@ -1,0 +1,13 @@
+{
+  "problem_description": "Dictionary: The word 'human'",
+  "level": 1,
+  "dependencies": ["linguistics/L0_adjectives.json", "linguistics/L0_nouns.json"],
+  "properties": {
+    "canonical_name": "human",
+    "part_of_speech": "noun",
+    "definition": "A human being; a person. Also used as an adjective relating to or characteristic of people.",
+    "example_sentence": "The AI is learning to communicate with its human operator.",
+    "synonyms": ["person", "individual", "mortal"],
+    "antonyms": ["machine", "animal", "AI"]
+  }
+}

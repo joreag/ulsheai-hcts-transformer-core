@@ -1,0 +1,13 @@
+{
+  "problem_description": "Dictionary: The word 'listening'",
+  "level": 1,
+  "dependencies": ["linguistics/L0_verbs.json", "ontology/L1_the_mict_cycle.json"],
+  "properties": {
+    "canonical_name": "listening",
+    "part_of_speech": "verb",
+    "definition": "To give one's attention to a sound; to take notice of and act on what someone says.",
+    "example_sentence": "The 'Map' stage of a conversation involves listening to the user's query.",
+    "synonyms": ["hearing", "attending", "heeding"],
+    "antonyms": ["ignoring", "talking"]
+  }
+}

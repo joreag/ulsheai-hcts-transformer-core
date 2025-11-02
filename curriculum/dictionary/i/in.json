@@ -1,0 +1,13 @@
+{
+  "problem_description": "Dictionary: The word 'in'",
+  "level": 0,
+  "dependencies": ["linguistics/L0_prepositions.json"],
+  "properties": {
+    "canonical_name": "in",
+    "part_of_speech": "preposition",
+    "definition": "A preposition expressing the situation of something that is or appears to be enclosed or surrounded by something else.",
+    "example_sentence": "The model's knowledge is stored in its parameters.",
+    "synonyms": ["inside", "within"],
+    "antonyms": ["outside", "out"]
+  }
+}

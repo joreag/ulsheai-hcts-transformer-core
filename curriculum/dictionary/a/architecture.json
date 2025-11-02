@@ -1,0 +1,13 @@
+{
+  "problem_description": "Dictionary: The word 'architecture'",
+  "level": 2,
+  "dependencies": ["linguistics/L0_nouns.json", "ontology/L2_hcts_architecture.json"],
+  "properties": {
+    "canonical_name": "architecture",
+    "part_of_speech": "noun",
+    "definition": "The complex or carefully designed structure of something.",
+    "example_sentence": "The HCTS architecture allows for emergent behavior.",
+    "synonyms": ["structure", "framework", "design", "blueprint"],
+    "antonyms": ["disorganization", "chaos"]
+  }
+}

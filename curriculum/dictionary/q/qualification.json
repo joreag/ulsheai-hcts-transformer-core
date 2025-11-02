@@ -1,0 +1,13 @@
+{
+  "problem_description": "Dictionary: The word 'qualification'",
+  "level": 2,
+  "dependencies": ["linguistics/L0_nouns.json"],
+  "properties": {
+    "canonical_name": "qualification",
+    "part_of_speech": "noun",
+    "definition": "A quality or accomplishment that makes someone suitable for a particular job or activity.",
+    "example_sentence": "GUARDIAN PRIME checks the qualifications of an actor before granting access.",
+    "synonyms": ["credential", "suitability", "attribute", "skill"],
+    "antonyms": ["disqualification"]
+  }
+}

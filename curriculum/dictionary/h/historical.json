@@ -1,0 +1,13 @@
+{
+  "problem_description": "Dictionary: The word 'historical'",
+  "level": 2,
+  "dependencies": ["linguistics/L0_adjectives.json"],
+  "properties": {
+    "canonical_name": "historical",
+    "part_of_speech": "adjective",
+    "definition": "Of or concerning history or past events.",
+    "example_sentence": "The optimizer uses historical data to guide its next step.",
+    "synonyms": ["past", "bygone", "documented"],
+    "antonyms": ["future", "present", "ahistorical"]
+  }
+}

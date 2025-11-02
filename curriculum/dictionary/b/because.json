@@ -1,0 +1,13 @@
+{
+  "problem_description": "Dictionary: The word 'because'",
+  "level": 0,
+  "dependencies": ["linguistics/L0_conjunctions.json"],
+  "properties": {
+    "canonical_name": "because",
+    "part_of_speech": "conjunction",
+    "definition": "Used to introduce a word or phrase that stands for a cause or reason.",
+    "example_sentence": "The AI formed the connection because the underlying logic was similar.",
+    "synonyms": ["since", "as", "for the reason that"],
+    "antonyms": []
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "problem_description": "Dictionary: The word 'connect'",
+  "level": 1,
+  "dependencies": ["linguistics/L0_verbs.json"],
+  "properties": {
+    "canonical_name": "connect",
+    "part_of_speech": "verb",
+    "definition": "To bring together or into contact so that a real or notional link is established.",
+    "example_sentence": "The AI learned to connect the idea of logic to the laws of physics.",
+    "synonyms": ["link", "join", "associate", "relate"],
+    "antonyms": ["disconnect", "separate", "detach"]
+  }
+}

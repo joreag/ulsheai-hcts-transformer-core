@@ -1,0 +1,13 @@
+{
+  "problem_description": "Dictionary: The word 'axiom'",
+  "level": 2,
+  "dependencies": ["linguistics/L0_nouns.json"],
+  "properties": {
+    "canonical_name": "axiom",
+    "part_of_speech": "noun",
+    "definition": "A statement or proposition which is regarded as being established, accepted, or self-evidently true, serving as a premise or starting point for further reasoning.",
+    "example_sentence": "The idea that a point has no dimensions is a fundamental axiom of geometry.",
+    "synonyms": ["principle", "postulate", "truism"],
+    "antonyms": ["paradox", "fallacy", "absurdity"]
+  }
+}

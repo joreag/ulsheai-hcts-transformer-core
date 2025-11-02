@@ -1,0 +1,13 @@
+{
+  "problem_description": "Dictionary: The word 'verify'",
+  "level": 2,
+  "dependencies": ["linguistics/L0_verbs.json", "dictionary/t/truth.json"],
+  "properties": {
+    "canonical_name": "verify",
+    "part_of_speech": "verb",
+    "definition": "To make sure or demonstrate that something is true, accurate, or justified.",
+    "example_sentence": "GUARDIAN PRIME must verify all new knowledge before integration.",
+    "synonyms": ["confirm", "substantiate", "validate", "check"],
+    "antonyms": ["disprove", "falsify", "invalidate"]
+  }
+}

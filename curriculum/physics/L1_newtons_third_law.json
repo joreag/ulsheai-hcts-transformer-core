@@ -1,0 +1,20 @@
+{
+  "problem_description": "Level 1 Physics - Newton's Third Law (Action-Reaction)",
+  "level": 1,
+  "dependencies": [],
+  "hypothesis_templates": [
+    "action == -reaction"
+  ],
+  "training_data": [
+    {
+      "comment": "Verifying equal and opposite forces.",
+      "action": 100, "reaction": -100,
+      "expected_result": true
+    },
+    {
+      "comment": "Negative Knowledge: Verifying it fails if forces are equal but not opposite.",
+      "action": 100, "reaction": 100,
+      "expected_result": false
+    }
+  ]
+}

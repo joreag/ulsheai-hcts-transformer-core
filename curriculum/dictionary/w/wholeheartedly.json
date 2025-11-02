@@ -1,0 +1,13 @@
+{
+  "problem_description": "Dictionary: The word 'wholeheartedly'",
+  "level": 2,
+  "dependencies": ["linguistics/L0_adverbs.json"],
+  "properties": {
+    "canonical_name": "wholeheartedly",
+    "part_of_speech": "adverb",
+    "definition": "With complete sincerity and commitment.",
+    "example_sentence": "GUARDIAN PRIME must be wholeheartedly committed to its ethical framework.",
+    "synonyms": ["unreservedly", "completely", "sincerely", "enthusiastically"],
+    "antonyms": ["reluctantly", "grudgingly", "hesitantly"]
+  }
+}

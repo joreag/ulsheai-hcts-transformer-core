@@ -1,0 +1,13 @@
+{
+  "problem_description": "Dictionary: The word 'come'",
+  "level": 0,
+  "dependencies": ["linguistics/L0_verbs.json"],
+  "properties": {
+    "canonical_name": "come",
+    "part_of_speech": "verb",
+    "definition": "To move or travel toward or into a place thought of as near or familiar to the speaker.",
+    "example_sentence": "We can see new ideas come from the synthesis of old ones.",
+    "synonyms": ["arrive", "approach", "move"],
+    "antonyms": ["go", "leave", "depart"]
+  }
+}

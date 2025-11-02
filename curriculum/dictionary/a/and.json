@@ -1,0 +1,13 @@
+{
+  "problem_description": "Dictionary: The word 'and'",
+  "level": 0,
+  "dependencies": ["linguistics/L0_conjunctions.json"],
+  "properties": {
+    "canonical_name": "and",
+    "part_of_speech": "conjunction",
+    "definition": "A conjunction used to connect words, phrases, or clauses that are to be taken together.",
+    "example_sentence": "The model is both efficient and powerful.",
+    "synonyms": ["also", "in addition to", "plus"],
+    "antonyms": ["or", "but"]
+  }
+}

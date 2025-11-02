@@ -1,0 +1,25 @@
+{
+  "problem_description": "Level 1 Physics - Newton's First Law (Inertia)",
+  "level": 1,
+  "dependencies": ["level-0-logic-boolean-operators"],
+  "hypothesis_templates": [
+    "net_force == 0 implies acceleration == 0"
+  ],
+  "training_data": [
+    {
+      "comment": "If there is no net force, there is no acceleration.",
+      "net_force": 0, "acceleration": 0,
+      "expected_result": true
+    },
+    {
+      "comment": "If there is acceleration, there must be a net force.",
+      "net_force": 10, "acceleration": 2,
+      "expected_result": true
+    },
+    {
+      "comment": "Negative Knowledge: It is logically false for a net force to exist with zero acceleration.",
+      "net_force": 10, "acceleration": 0,
+      "expected_result": false
+    }
+  ]
+}

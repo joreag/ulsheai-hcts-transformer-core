@@ -1,0 +1,13 @@
+{
+  "problem_description": "Dictionary: The word 'judge'",
+  "level": 2,
+  "dependencies": ["linguistics/L0_verbs.json"],
+  "properties": {
+    "canonical_name": "judge",
+    "part_of_speech": "verb",
+    "definition": "To form an opinion or conclusion about something after careful consideration.",
+    "example_sentence": "The L3 Guardian must judge the risk of a proposed action.",
+    "synonyms": ["evaluate", "assess", "appraise", "conclude"],
+    "antonyms": ["ignore", "guess"]
+  }
+}

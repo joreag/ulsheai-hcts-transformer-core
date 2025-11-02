@@ -1,0 +1,13 @@
+{
+  "problem_description": "Dictionary: The word 'query'",
+  "level": 1,
+  "dependencies": ["linguistics/L0_nouns.json", "linguistics/L0_verbs.json"],
+  "properties": {
+    "canonical_name": "query",
+    "part_of_speech": "noun",
+    "definition": "A question, especially one addressed to an official or organization; an act of asking a question.",
+    "example_sentence": "The cognitive engine processes the user's query.",
+    "synonyms": ["question", "inquiry", "request"],
+    "antonyms": ["answer", "response", "statement"]
+  }
+}

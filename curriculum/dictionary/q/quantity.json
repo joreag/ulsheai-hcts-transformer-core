@@ -1,0 +1,13 @@
+{
+  "problem_description": "Dictionary: The word 'quantity'",
+  "level": 1,
+  "dependencies": ["linguistics/L0_nouns.json"],
+  "properties": {
+    "canonical_name": "quantity",
+    "part_of_speech": "noun",
+    "definition": "The amount or number of a material or abstract thing.",
+    "example_sentence": "The number of parameters is a measure of the model's quantity of connections.",
+    "synonyms": ["amount", "number", "volume", "mass"],
+    "antonyms": ["quality"]
+  }
+}

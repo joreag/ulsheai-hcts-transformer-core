@@ -1,0 +1,13 @@
+{
+  "problem_description": "Dictionary: The word 'say'",
+  "level": 0,
+  "dependencies": ["linguistics/L0_verbs.json"],
+  "properties": {
+    "canonical_name": "say",
+    "part_of_speech": "verb",
+    "definition": "To utter words so as to convey information, an opinion, a feeling, or an intention.",
+    "example_sentence": "The AI needs to learn what to say in response to a query.",
+    "synonyms": ["utter", "speak", "state", "declare"],
+    "antonyms": ["be silent", "listen"]
+  }
+}

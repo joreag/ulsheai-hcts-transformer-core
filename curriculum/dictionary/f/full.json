@@ -1,0 +1,13 @@
+{
+  "problem_description": "Dictionary: The word 'full'",
+  "level": 0,
+  "dependencies": ["linguistics/L0_adjectives.json"],
+  "properties": {
+    "canonical_name": "full",
+    "part_of_speech": "adjective",
+    "definition": "Containing or holding as much or as many as possible; having no empty space.",
+    "example_sentence": "The dojo trainer requires the full dataset to begin.",
+    "synonyms": ["complete", "entire", "whole"],
+    "antonyms": ["empty", "partial", "incomplete"]
+  }
+}

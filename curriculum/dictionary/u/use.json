@@ -1,0 +1,13 @@
+{
+  "problem_description": "Dictionary: The word 'use'",
+  "level": 0,
+  "dependencies": ["linguistics/L0_verbs.json", "linguistics/L0_nouns.json"],
+  "properties": {
+    "canonical_name": "use",
+    "part_of_speech": "verb",
+    "definition": "To take, hold, or deploy as a means of accomplishing a purpose.",
+    "example_sentence": "We will use the dojo to teach the AI new skills.",
+    "synonyms": ["utilize", "employ", "apply"],
+    "antonyms": ["waste", "ignore"]
+  }
+}

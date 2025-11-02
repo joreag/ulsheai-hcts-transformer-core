@@ -1,0 +1,13 @@
+{
+  "problem_description": "Dictionary: The word 'unite'",
+  "level": 2,
+  "dependencies": ["linguistics/L0_verbs.json", "dictionary/u/unify.json"],
+  "properties": {
+    "canonical_name": "unite",
+    "part_of_speech": "verb",
+    "definition": "To come or bring together for a common purpose or action.",
+    "example_sentence": "The goal is to unite different knowledge domains into a single graph.",
+    "synonyms": ["join", "combine", "merge", "unify"],
+    "antonyms": ["divide", "separate", "split"]
+  }
+}

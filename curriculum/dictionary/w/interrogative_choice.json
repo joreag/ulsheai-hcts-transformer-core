@@ -1,0 +1,16 @@
+{
+  "problem_description": "Dictionary: Interrogatives of Choice",
+  "level": 1,
+  "dependencies": ["linguistics/L0_pronouns.json", "linguistics/L0_determiners.json"],
+  "properties": {
+    "canonical_name": "Interrogatives of Choice",
+    "part_of_speech": "pronoun",
+    "definition": "Words used to ask questions that involve selecting from a set of options, whether specified or unspecified.",
+    "example_sentence": "Which model should we use for the test?",
+    "solution_rules": [
+      "which: asking for information specifying one or more people or things from a definite set",
+      "whatever: used to emphasize a lack of restriction in referring to any thing or amount",
+      "whichever: used to refer to one of a number of things, when it is not important which one"
+    ]
+  }
+}

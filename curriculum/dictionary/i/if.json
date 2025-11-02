@@ -1,0 +1,13 @@
+{
+  "problem_description": "Dictionary: The word 'if'",
+  "level": 1,
+  "dependencies": ["linguistics/L0_conjunctions.json"],
+  "properties": {
+    "canonical_name": "if",
+    "part_of_speech": "conjunction",
+    "definition": "A conjunction used to introduce a conditional clause.",
+    "example_sentence": "If the error is high, then a correction is required.",
+    "synonyms": ["in the event that", "on the condition that"],
+    "antonyms": []
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "problem_description": "Dictionary: The word 'list'",
+  "level": 0,
+  "dependencies": ["linguistics/L0_nouns.json", "linguistics/L0_verbs.json"],
+  "properties": {
+    "canonical_name": "list",
+    "part_of_speech": "noun",
+    "definition": "A number of connected items or names written or printed consecutively.",
+    "example_sentence": "The Guardian checks the URL against a list of trusted sources.",
+    "synonyms": ["catalog", "inventory", "roster", "series"],
+    "antonyms": []
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "problem_description": "Dictionary: The word 'formulate'",
+  "level": 2,
+  "dependencies": ["linguistics/L0_verbs.json"],
+  "properties": {
+    "canonical_name": "formulate",
+    "part_of_speech": "verb",
+    "definition": "To create or devise something methodically.",
+    "example_sentence": "The AI will formulate a response based on the concepts it identified.",
+    "synonyms": ["devise", "conceive", "construct", "articulate"],
+    "antonyms": ["improvise", "muddle"]
+  }
+}

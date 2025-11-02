@@ -1,0 +1,13 @@
+{
+  "problem_description": "Dictionary: The word 'zenith'",
+  "level": 2,
+  "dependencies": ["linguistics/L0_nouns.json"],
+  "properties": {
+    "canonical_name": "zenith",
+    "part_of_speech": "noun",
+    "definition": "The time at which something is most powerful or successful; the highest point reached in the heavens by a celestial body.",
+    "example_sentence": "Achieving true AGI would be the zenith of the project.",
+    "synonyms": ["peak", "pinnacle", "apex", "summit"],
+    "antonyms": ["nadir", "bottom", "trough"]
+  }
+}

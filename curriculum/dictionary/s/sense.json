@@ -1,0 +1,13 @@
+{
+  "problem_description": "Dictionary: The word 'sense'",
+  "level": 2,
+  "dependencies": ["linguistics/L0_nouns.json", "dictionary/m/meaning.json"],
+  "properties": {
+    "canonical_name": "sense",
+    "part_of_speech": "noun",
+    "definition": "A faculty by which the body perceives an external stimulus; a feeling that something is the case; a way in which an expression can be interpreted; a meaning.",
+    "example_sentence": "The AI tries to make sense of a query by finding related concepts.",
+    "synonyms": ["feeling", "perception", "meaning", "understanding"],
+    "antonyms": ["nonsense"]
+  }
+}

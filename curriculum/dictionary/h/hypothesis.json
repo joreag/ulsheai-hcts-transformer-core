@@ -1,0 +1,13 @@
+{
+  "problem_description": "Dictionary: The word 'hypothesis'",
+  "level": 2,
+  "dependencies": ["linguistics/L0_nouns.json"],
+  "properties": {
+    "canonical_name": "hypothesis",
+    "part_of_speech": "noun",
+    "definition": "A supposition or proposed explanation made on the basis of limited evidence as a starting point for further investigation.",
+    "example_sentence": "Our hypothesis is that a better curriculum will lead to a smarter AI.",
+    "synonyms": ["theory", "supposition", "premise", "conjecture"],
+    "antonyms": ["fact", "proof", "certainty"]
+  }
+}

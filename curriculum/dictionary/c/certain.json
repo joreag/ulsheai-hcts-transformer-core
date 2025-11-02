@@ -1,0 +1,13 @@
+{
+  "problem_description": "Dictionary: The word 'certain'",
+  "level": 1,
+  "dependencies": ["linguistics/L0_adjectives.json"],
+  "properties": {
+    "canonical_name": "certain",
+    "part_of_speech": "adjective",
+    "definition": "Known for sure; established beyond doubt.",
+    "example_sentence": "It is certain that the model's VRAM usage will increase.",
+    "synonyms": ["sure", "definite", "convinced", "undoubted"],
+    "antonyms": ["uncertain", "doubtful", "unsure"]
+  }
+}

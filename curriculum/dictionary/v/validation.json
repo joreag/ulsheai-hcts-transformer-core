@@ -1,0 +1,13 @@
+{
+  "problem_description": "Dictionary: The word 'validation'",
+  "level": 2,
+  "dependencies": ["linguistics/L0_nouns.json", "dictionary/v/verify.json"],
+  "properties": {
+    "canonical_name": "validation",
+    "part_of_speech": "noun",
+    "definition": "The action of checking or proving the validity or accuracy of something.",
+    "example_sentence": "The L1 cycle performs input validation.",
+    "synonyms": ["verification", "confirmation", "authentication", "proof"],
+    "antonyms": ["invalidation", "falsification"]
+  }
+}

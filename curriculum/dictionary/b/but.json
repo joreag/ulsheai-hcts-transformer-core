@@ -1,0 +1,13 @@
+{
+  "problem_description": "Dictionary: The word 'but'",
+  "level": 0,
+  "dependencies": ["linguistics/L0_conjunctions.json"],
+  "properties": {
+    "canonical_name": "but",
+    "part_of_speech": "conjunction",
+    "definition": "Used to introduce a phrase or clause contrasting with what has already been mentioned.",
+    "example_sentence": "The model is efficient, but it still has a lot to learn.",
+    "synonyms": ["however", "yet", "although"],
+    "antonyms": ["and", "also"]
+  }
+}

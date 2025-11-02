@@ -1,0 +1,13 @@
+{
+  "problem_description": "Dictionary: The word 'platform'",
+  "level": 2,
+  "dependencies": ["linguistics/L0_nouns.json"],
+  "properties": {
+    "canonical_name": "platform",
+    "part_of_speech": "noun",
+    "definition": "A declared policy of a political party or group; a raised level surface; a standard for the hardware of a computer system.",
+    "example_sentence": "The GAGE framework is a platform for building specialized AIs.",
+    "synonyms": ["framework", "stage", "system", "standard"],
+    "antonyms": []
+  }
+}

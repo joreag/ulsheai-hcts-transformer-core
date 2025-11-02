@@ -1,0 +1,13 @@
+{
+  "problem_description": "Dictionary: The word 'rust'",
+  "level": 2,
+  "dependencies": ["linguistics/L0_nouns.json"],
+  "properties": {
+    "canonical_name": "rust",
+    "part_of_speech": "proper_noun",
+    "definition": "A reference to the Rust programming language, known for its focus on performance, memory safety, and concurrency.",
+    "example_sentence": "The plan is to port the Python-based system to Rust for production.",
+    "synonyms": [],
+    "antonyms": []
+  }
+}

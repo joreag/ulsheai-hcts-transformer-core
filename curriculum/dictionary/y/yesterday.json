@@ -1,0 +1,13 @@
+{
+  "problem_description": "Dictionary: The word 'yesterday'",
+  "level": 0,
+  "dependencies": ["linguistics/L0_nouns.json", "linguistics/L0_adverbs.json"],
+  "properties": {
+    "canonical_name": "yesterday",
+    "part_of_speech": "adverb",
+    "definition": "On the day before today.",
+    "example_sentence": "The model we trained yesterday is now obsolete.",
+    "synonyms": ["the previous day"],
+    "antonyms": ["today", "tomorrow"]
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "problem_description": "Dictionary: The word 'learn'",
+  "level": 1,
+  "dependencies": ["linguistics/L0_verbs.json", "dictionary/k/knowledge.json"],
+  "properties": {
+    "canonical_name": "learn",
+    "part_of_speech": "verb",
+    "definition": "To gain or acquire knowledge of or skill in something by study, experience, or being taught.",
+    "example_sentence": "The MetaMICTOrchestrator allows the system to learn autonomously.",
+    "synonyms": ["acquire", "master", "study", "understand"],
+    "antonyms": ["forget", "ignore"]
+  }
+}

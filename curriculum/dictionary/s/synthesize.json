@@ -1,0 +1,13 @@
+{
+  "problem_description": "Dictionary: The word 'synthesize'",
+  "level": 2,
+  "dependencies": ["linguistics/L0_verbs.json", "dictionary/c/connect.json"],
+  "properties": {
+    "canonical_name": "synthesize",
+    "part_of_speech": "verb",
+    "definition": "To combine a number of things into a coherent whole.",
+    "example_sentence": "In creative mode, the AI will synthesize a response from multiple concepts.",
+    "synonyms": ["combine", "integrate", "unify", "orchestrate"],
+    "antonyms": ["analyze", "dissect", "separate"]
+  }
+}

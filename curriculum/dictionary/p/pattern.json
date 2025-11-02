@@ -1,0 +1,13 @@
+{
+  "problem_description": "Dictionary: The word 'pattern'",
+  "level": 1,
+  "dependencies": ["linguistics/L0_nouns.json"],
+  "properties": {
+    "canonical_name": "pattern",
+    "part_of_speech": "noun",
+    "definition": "A regular and intelligible form or sequence detectable in a way a system is organized.",
+    "example_sentence": "The AI learns by identifying patterns in the data.",
+    "synonyms": ["sequence", "structure", "system", "arrangement"],
+    "antonyms": ["chaos", "randomness", "disorder"]
+  }
+}

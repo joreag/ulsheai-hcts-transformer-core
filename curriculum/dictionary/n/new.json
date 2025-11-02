@@ -1,0 +1,13 @@
+{
+  "problem_description": "Dictionary: The word 'new'",
+  "level": 0,
+  "dependencies": ["linguistics/L0_adjectives.json"],
+  "properties": {
+    "canonical_name": "new",
+    "part_of_speech": "adjective",
+    "definition": "Produced, introduced, or discovered recently or for the first time; not existing before.",
+    "example_sentence": "The orchestrator generates a new lesson from the raw text.",
+    "synonyms": ["recent", "fresh", "novel", "modern"],
+    "antonyms": ["old", "previous", "existing"]
+  }
+}

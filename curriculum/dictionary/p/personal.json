@@ -1,0 +1,13 @@
+{
+  "problem_description": "Dictionary: The word 'personal'",
+  "level": 1,
+  "dependencies": ["linguistics/L0_adjectives.json", "dictionary/p/person.json"],
+  "properties": {
+    "canonical_name": "personal",
+    "part_of_speech": "adjective",
+    "definition": "Of, affecting, or belonging to a particular person rather than to anyone else.",
+    "example_sentence": "A personal knowledge graph will store user-specific context.",
+    "synonyms": ["private", "individual", "exclusive"],
+    "antonyms": ["public", "general", "common"]
+  }
+}

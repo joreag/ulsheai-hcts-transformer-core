@@ -1,0 +1,13 @@
+{
+  "problem_description": "Dictionary: The word 'most'",
+  "level": 0,
+  "dependencies": ["linguistics/L0_determiners.json", "linguistics/L0_adverbs.json"],
+  "properties": {
+    "canonical_name": "most",
+    "part_of_speech": "determiner",
+    "definition": "The greatest in amount, quantity, or degree.",
+    "example_sentence": "The most important principle is to ensure safety.",
+    "synonyms": ["greatest", "majority", "utmost"],
+    "antonyms": ["least", "fewest"]
+  }
+}

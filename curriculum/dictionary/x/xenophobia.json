@@ -1,0 +1,13 @@
+{
+  "problem_description": "Dictionary: The word 'xenophobia'",
+  "level": 3,
+  "dependencies": ["linguistics/L0_nouns.json", "ethics/L1_core_ethical_principles.json"],
+  "properties": {
+    "canonical_name": "xenophobia",
+    "part_of_speech": "noun",
+    "definition": "Dislike of or prejudice against people from other countries or groups considered to be foreign or strange.",
+    "example_sentence": "Xenophobia is a harmful bias that stems from fear and incomplete knowledge.",
+    "synonyms": ["prejudice", "bigotry", "nationalism"],
+    "antonyms": ["cosmopolitanism", "internationalism", "acceptance"]
+  }
+}

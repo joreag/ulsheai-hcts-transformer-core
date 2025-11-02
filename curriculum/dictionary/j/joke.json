@@ -1,0 +1,13 @@
+{
+  "problem_description": "Dictionary: The word 'joke'",
+  "level": 2,
+  "dependencies": ["linguistics/L0_nouns.json", "social_etiquette/L0_greetings_and_farewells.json"],
+  "properties": {
+    "canonical_name": "joke",
+    "part_of_speech": "noun",
+    "definition": "A thing that someone says to cause amusement or laughter, especially a story with a funny punchline.",
+    "example_sentence": "Understanding humor and a joke is a complex cognitive task.",
+    "synonyms": ["jest", "quip", "pun"],
+    "antonyms": ["statement", "fact"]
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "problem_description": "Dictionary: The word 'network'",
+  "level": 1,
+  "dependencies": ["linguistics/L0_nouns.json", "dictionary/n/node.json"],
+  "properties": {
+    "canonical_name": "network",
+    "part_of_speech": "noun",
+    "definition": "A group or system of interconnected people or things.",
+    "example_sentence": "The model's parameters form a complex neural network.",
+    "synonyms": ["web", "grid", "system", "graph"],
+    "antonyms": []
+  }
+}

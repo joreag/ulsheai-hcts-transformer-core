@@ -1,0 +1,13 @@
+{
+  "problem_description": "Dictionary: The word 'origin'",
+  "level": 1,
+  "dependencies": ["linguistics/L0_nouns.json"],
+  "properties": {
+    "canonical_name": "origin",
+    "part_of_speech": "noun",
+    "definition": "The point or place where something begins, arises, or is derived.",
+    "example_sentence": "The origin of the idea came from the Mobius strip.",
+    "synonyms": ["source", "beginning", "start", "genesis"],
+    "antonyms": ["end", "conclusion", "destination"]
+  }
+}

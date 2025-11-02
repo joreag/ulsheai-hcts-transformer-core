@@ -1,0 +1,13 @@
+{
+  "problem_description": "Dictionary: The word 'build'",
+  "level": 1,
+  "dependencies": ["linguistics/L0_verbs.json"],
+  "properties": {
+    "canonical_name": "build",
+    "part_of_speech": "verb",
+    "definition": "To construct something by putting parts or material together over a period of time.",
+    "example_sentence": "We need to build a new knowledge graph from the curriculum.",
+    "synonyms": ["construct", "create", "assemble", "make"],
+    "antonyms": ["destroy", "dismantle"]
+  }
+}

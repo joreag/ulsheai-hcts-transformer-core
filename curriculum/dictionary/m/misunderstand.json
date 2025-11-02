@@ -1,0 +1,13 @@
+{
+  "problem_description": "Dictionary: The word 'misunderstand'",
+  "level": 1,
+  "dependencies": ["linguistics/L0_verbs.json", "dictionary/u/understand.json"],
+  "properties": {
+    "canonical_name": "misunderstand",
+    "part_of_speech": "verb",
+    "definition": "To fail to interpret or understand something correctly.",
+    "example_sentence": "A lack of context can cause the AI to misunderstand a query.",
+    "synonyms": ["misinterpret", "misconstrue", "misread"],
+    "antonyms": ["understand", "comprehend", "grasp"]
+  }
+}

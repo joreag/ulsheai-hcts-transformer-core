@@ -1,0 +1,13 @@
+{
+  "problem_description": "Dictionary: The word 'under'",
+  "level": 0,
+  "dependencies": ["linguistics/L0_prepositions.json"],
+  "properties": {
+    "canonical_name": "under",
+    "part_of_speech": "preposition",
+    "definition": "A preposition expressing position in or to a place lower than another.",
+    "example_sentence": "The HCTS architecture places logic under a hierarchical structure.",
+    "synonyms": ["below", "beneath"],
+    "antonyms": ["over", "above", "on"]
+  }
+}

@@ -1,0 +1,14 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Data files (we don't want to commit the large generated files)
+*.jsonl
+*.pkl
+pre_graph.json
+vocab_genesis.json
+
+# IDE files
+.vscode/

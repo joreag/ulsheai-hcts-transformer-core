@@ -1,0 +1,13 @@
+{
+  "problem_description": "Dictionary: The word 'xerox'",
+  "level": 1,
+  "dependencies": ["linguistics/L0_nouns.json", "linguistics/L0_verbs.json"],
+  "properties": {
+    "canonical_name": "xerox",
+    "part_of_speech": "verb",
+    "definition": "To make a photocopy of something. The term originates from the company Xerox, a pioneer in photocopying technology.",
+    "example_sentence": "Please xerox this document for the meeting.",
+    "synonyms": ["photocopy", "copy", "duplicate"],
+    "antonyms": []
+  }
+}

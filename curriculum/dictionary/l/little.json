@@ -1,0 +1,13 @@
+{
+  "problem_description": "Dictionary: The word 'little'",
+  "level": 0,
+  "dependencies": ["linguistics/L0_adjectives.json"],
+  "properties": {
+    "canonical_name": "little",
+    "part_of_speech": "adjective",
+    "definition": "Small in size, amount, or degree.",
+    "example_sentence": "A small learning rate can make a big difference.",
+    "synonyms": ["small", "tiny", "minor"],
+    "antonyms": ["big", "large", "huge"]
+  }
+}

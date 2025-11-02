@@ -1,0 +1,13 @@
+{
+  "problem_description": "Dictionary: The word 'valuable'",
+  "level": 1,
+  "dependencies": ["linguistics/L0_adjectives.json", "dictionary/v/value.json"],
+  "properties": {
+    "canonical_name": "valuable",
+    "part_of_speech": "adjective",
+    "definition": "Worth a great deal; extremely useful or important.",
+    "example_sentence": "The 'Dojo' training provides a valuable skill.",
+    "synonyms": ["precious", "important", "useful", "beneficial"],
+    "antonyms": ["worthless", "useless", "trivial"]
+  }
+}

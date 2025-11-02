@@ -1,0 +1,13 @@
+{
+  "problem_description": "Dictionary: The word 'next'",
+  "level": 0,
+  "dependencies": ["linguistics/L0_adjectives.json", "linguistics/L0_adverbs.json"],
+  "properties": {
+    "canonical_name": "next",
+    "part_of_speech": "adjective",
+    "definition": "Coming immediately after the time of writing or speaking; in a position immediately adjacent.",
+    "example_sentence": "The next stage in the cycle is to iterate.",
+    "synonyms": ["following", "subsequent", "succeeding"],
+    "antonyms": ["previous", "prior"]
+  }
+}

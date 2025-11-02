@@ -1,0 +1,13 @@
+{
+  "problem_description": "Dictionary: The word 'simply'",
+  "level": 0,
+  "dependencies": ["linguistics/L0_adverbs.json"],
+  "properties": {
+    "canonical_name": "simply",
+    "part_of_speech": "adverb",
+    "definition": "In a straightforward or plain manner; merely or only.",
+    "example_sentence": "It is not simply a memorizer; it is a reasoning engine.",
+    "synonyms": ["merely", "just", "only", "plainly"],
+    "antonyms": ["complexly", "intricately"]
+  }
+}

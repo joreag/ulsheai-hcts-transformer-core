@@ -1,0 +1,13 @@
+{
+  "problem_description": "Dictionary: The word 'just'",
+  "level": 0,
+  "dependencies": ["linguistics/L0_adverbs.json"],
+  "properties": {
+    "canonical_name": "just",
+    "part_of_speech": "adverb",
+    "definition": "Exactly; simply; only or merely.",
+    "example_sentence": "It is not just a pattern matcher; it is a reasoning engine.",
+    "synonyms": ["only", "merely", "simply", "precisely"],
+    "antonyms": []
+  }
+}

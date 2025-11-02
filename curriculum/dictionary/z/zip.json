@@ -1,0 +1,13 @@
+{
+  "problem_description": "Dictionary: The word 'zip'",
+  "level": 0,
+  "dependencies": ["linguistics/L0_verbs.json"],
+  "properties": {
+    "canonical_name": "zip",
+    "part_of_speech": "verb",
+    "definition": "To move at high speed; to fasten with a zipper; to compress a computer file to take up less space.",
+    "example_sentence": "The AI could zip through the data once the pipeline was fixed.",
+    "synonyms": ["dash", "rush", "speed", "compress"],
+    "antonyms": ["crawl", "unzip"]
+  }
+}

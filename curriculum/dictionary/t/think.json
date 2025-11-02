@@ -1,0 +1,13 @@
+{
+  "problem_description": "Dictionary: The word 'think'",
+  "level": 1,
+  "dependencies": ["linguistics/L0_verbs.json"],
+  "properties": {
+    "canonical_name": "think",
+    "part_of_speech": "verb",
+    "definition": "To have a particular opinion, belief, or idea about someone or something; to use one's mind to reason about something.",
+    "example_sentence": "The AI is learning how to think, not just how to repeat patterns.",
+    "synonyms": ["believe", "reason", "consider", "contemplate"],
+    "antonyms": ["feel", "act"]
+  }
+}

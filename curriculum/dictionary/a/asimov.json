@@ -1,0 +1,13 @@
+{
+  "problem_description": "Dictionary: The word 'asimov'",
+  "level": 2,
+  "dependencies": ["linguistics/L0_nouns.json"],
+  "properties": {
+    "canonical_name": "asimov",
+    "part_of_speech": "proper_noun",
+    "definition": "A reference to Isaac Asimov, an American writer and professor of biochemistry, known for his works of science fiction and for formulating the Three Laws of Robotics.",
+    "example_sentence": "The AI's ethical framework is inspired by Asimov's laws.",
+    "synonyms": [],
+    "antonyms": []
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "problem_description": "Dictionary: The word 'out'",
+  "level": 0,
+  "dependencies": ["linguistics/L0_adverbs.json", "linguistics/L0_prepositions.json"],
+  "properties": {
+    "canonical_name": "out",
+    "part_of_speech": "adverb",
+    "definition": "Moving or appearing to move away from a particular place, especially one that is enclosed or hidden.",
+    "example_sentence": "We need to flesh out the rest of the curriculum.",
+    "synonyms": ["away", "outside", "forth"],
+    "antonyms": ["in", "inside"]
+  }
+}

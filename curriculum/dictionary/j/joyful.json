@@ -1,0 +1,13 @@
+{
+  "problem_description": "Dictionary: The word 'joyful'",
+  "level": 1,
+  "dependencies": ["linguistics/L0_adjectives.json"],
+  "properties": {
+    "canonical_name": "joyful",
+    "part_of_speech": "adjective",
+    "definition": "Feeling, expressing, or causing great pleasure and happiness.",
+    "example_sentence": "The successful test run was a joyful moment.",
+    "synonyms": ["happy", "cheerful", "elated", "gleeful"],
+    "antonyms": ["sad", "miserable", "sorrowful"]
+  }
+}

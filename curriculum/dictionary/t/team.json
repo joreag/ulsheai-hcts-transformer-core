@@ -1,0 +1,13 @@
+{
+  "problem_description": "Dictionary: The word 'team'",
+  "level": 1,
+  "dependencies": ["linguistics/L0_nouns.json"],
+  "properties": {
+    "canonical_name": "team",
+    "part_of_speech": "noun",
+    "definition": "A group of people who work together at a particular job or activity.",
+    "example_sentence": "This project is a collaboration between a human and an AI team member.",
+    "synonyms": ["group", "squad", "crew", "collaboration"],
+    "antonyms": ["individual"]
+  }
+}

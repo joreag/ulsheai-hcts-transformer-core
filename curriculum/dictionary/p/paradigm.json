@@ -1,0 +1,13 @@
+{
+  "problem_description": "Dictionary: The word 'paradigm'",
+  "level": 3,
+  "dependencies": ["linguistics/L0_nouns.json", "dictionary/m/model.json"],
+  "properties": {
+    "canonical_name": "paradigm",
+    "part_of_speech": "noun",
+    "definition": "A typical example or pattern of something; a model or framework.",
+    "example_sentence": "This AI architecture represents a new paradigm in efficiency.",
+    "synonyms": ["model", "framework", "prototype", "standard"],
+    "antonyms": []
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "problem_description": "Dictionary: The word 'improve'",
+  "level": 1,
+  "dependencies": ["linguistics/L0_verbs.json"],
+  "properties": {
+    "canonical_name": "improve",
+    "part_of_speech": "verb",
+    "definition": "To make or become better.",
+    "example_sentence": "The MetaMICT cycle allows the system to improve itself over time.",
+    "synonyms": ["enhance", "refine", "better", "upgrade"],
+    "antonyms": ["worsen", "degrade", "impair"]
+  }
+}

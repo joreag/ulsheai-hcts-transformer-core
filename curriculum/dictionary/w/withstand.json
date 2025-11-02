@@ -1,0 +1,13 @@
+{
+  "problem_description": "Dictionary: The word 'withstand'",
+  "level": 2,
+  "dependencies": ["linguistics/L0_verbs.json"],
+  "properties": {
+    "canonical_name": "withstand",
+    "part_of_speech": "verb",
+    "definition": "To remain undamaged or unaffected by; to resist.",
+    "example_sentence": "The architecture must be robust enough to withstand unexpected inputs.",
+    "synonyms": ["resist", "endure", "survive", "brave"],
+    "antonyms": ["yield", "surrender", "succumb"]
+  }
+}

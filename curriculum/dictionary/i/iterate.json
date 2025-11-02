@@ -1,0 +1,13 @@
+{
+  "problem_description": "Dictionary: The word 'iterate'",
+  "level": 2,
+  "dependencies": ["linguistics/L0_verbs.json", "ontology/L1_the_mict_cycle.json"],
+  "properties": {
+    "canonical_name": "iterate",
+    "part_of_speech": "verb",
+    "definition": "To perform or utter repeatedly; to make a new version of something.",
+    "example_sentence": "The 'iterate' stage of the MICT cycle generates new possibilities.",
+    "synonyms": ["repeat", "reiterate", "rehearse"],
+    "antonyms": []
+  }
+}

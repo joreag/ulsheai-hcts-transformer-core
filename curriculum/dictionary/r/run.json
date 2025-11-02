@@ -1,0 +1,13 @@
+{
+  "problem_description": "Dictionary: The word 'run'",
+  "level": 0,
+  "dependencies": ["linguistics/L0_verbs.json"],
+  "properties": {
+    "canonical_name": "run",
+    "part_of_speech": "verb",
+    "definition": "To be in charge of; manage. To operate or function.",
+    "example_sentence": "We will run the training script to educate the AI.",
+    "synonyms": ["operate", "execute", "manage", "function"],
+    "antonyms": ["stop", "halt"]
+  }
+}

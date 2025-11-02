@@ -1,0 +1,13 @@
+{
+  "problem_description": "Dictionary: The word 'opinion'",
+  "level": 2,
+  "dependencies": ["linguistics/L0_nouns.json", "dictionary/t/truth.json"],
+  "properties": {
+    "canonical_name": "opinion",
+    "part_of_speech": "noun",
+    "definition": "A view or judgment formed about something, not necessarily based on fact or knowledge.",
+    "example_sentence": "The system distinguishes between a verifiable fact and a subjective opinion.",
+    "synonyms": ["belief", "judgment", "viewpoint", "sentiment"],
+    "antonyms": ["fact", "truth", "certainty"]
+  }
+}

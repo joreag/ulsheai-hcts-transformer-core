@@ -1,0 +1,13 @@
+{
+  "problem_description": "Dictionary: The word 'knowledge'",
+  "level": 2,
+  "dependencies": ["linguistics/L0_nouns.json", "dictionary/k/know.json"],
+  "properties": {
+    "canonical_name": "knowledge",
+    "part_of_speech": "noun",
+    "definition": "Facts, information, and skills acquired through experience or education; the theoretical or practical understanding of a subject.",
+    "example_sentence": "The knowledge graph is the AI's source of verifiable knowledge.",
+    "synonyms": ["understanding", "information", "erudition", "learning"],
+    "antonyms": ["ignorance", "incomprehension"]
+  }
+}

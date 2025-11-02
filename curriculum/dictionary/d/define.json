@@ -1,0 +1,13 @@
+{
+  "problem_description": "Dictionary: The word 'define'",
+  "level": 1,
+  "dependencies": ["linguistics/L0_verbs.json"],
+  "properties": {
+    "canonical_name": "define",
+    "part_of_speech": "verb",
+    "definition": "To state or describe exactly the nature, scope, or meaning of something.",
+    "example_sentence": "Each lesson file should define a single core concept.",
+    "synonyms": ["describe", "explain", "specify", "delineate"],
+    "antonyms": ["confuse", "obscure"]
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "problem_description": "Dictionary: The word 'do'",
+  "level": 0,
+  "dependencies": ["linguistics/L0_verbs.json"],
+  "properties": {
+    "canonical_name": "do",
+    "part_of_speech": "verb",
+    "definition": "To perform an action, the precise nature of which is often unspecified.",
+    "example_sentence": "We need to figure out what to do next.",
+    "synonyms": ["perform", "execute", "act", "carry out"],
+    "antonyms": ["refrain", "neglect"]
+  }
+}

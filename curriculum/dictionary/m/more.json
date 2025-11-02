@@ -1,0 +1,13 @@
+{
+  "problem_description": "Dictionary: The word 'more'",
+  "level": 0,
+  "dependencies": ["linguistics/L0_determiners.json", "linguistics/L0_adverbs.json"],
+  "properties": {
+    "canonical_name": "more",
+    "part_of_speech": "determiner",
+    "definition": "A greater or additional amount or degree of something.",
+    "example_sentence": "We need more data to improve the model's accuracy.",
+    "synonyms": ["additional", "further", "extra"],
+    "antonyms": ["less", "fewer"]
+  }
+}

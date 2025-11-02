@@ -1,0 +1,13 @@
+{
+  "problem_description": "Dictionary: The word 'mobius'",
+  "level": 2,
+  "dependencies": ["linguistics/L0_adjectives.json", "ontology/L0_the_mobius_principle.json"],
+  "properties": {
+    "canonical_name": "mobius",
+    "part_of_speech": "adjective",
+    "definition": "Relating to a Mobius strip, a surface with only one side and only one boundary, used as a metaphor for interconnectedness.",
+    "example_sentence": "The Mobius Principle is the core of the theory.",
+    "synonyms": ["one-sided", "continuous", "non-orientable"],
+    "antonyms": []
+  }
+}

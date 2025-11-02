@@ -1,0 +1,13 @@
+{
+  "problem_description": "Dictionary: The word 'context'",
+  "level": 2,
+  "dependencies": ["linguistics/L0_nouns.json"],
+  "properties": {
+    "canonical_name": "context",
+    "part_of_speech": "noun",
+    "definition": "The circumstances that form the setting for an event, statement, or idea, and in terms of which it can be fully understood and assessed.",
+    "example_sentence": "Without context, the data is meaningless.",
+    "synonyms": ["circumstances", "situation", "background", "setting"],
+    "antonyms": []
+  }
+}

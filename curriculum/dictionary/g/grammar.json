@@ -1,0 +1,13 @@
+{
+  "problem_description": "Dictionary: The word 'grammar'",
+  "level": 1,
+  "dependencies": ["linguistics/L0_nouns.json"],
+  "properties": {
+    "canonical_name": "grammar",
+    "part_of_speech": "noun",
+    "definition": "The whole system and structure of a language or of languages in general, usually taken as consisting of syntax and morphology.",
+    "example_sentence": "The linguistics lessons teach the AI the rules of grammar.",
+    "synonyms": ["syntax", "linguistic_structure"],
+    "antonyms": []
+  }
+}

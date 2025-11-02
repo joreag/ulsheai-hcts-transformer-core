@@ -1,0 +1,13 @@
+{
+  "problem_description": "Dictionary: The word 'uniform'",
+  "level": 1,
+  "dependencies": ["linguistics/L0_adjectives.json"],
+  "properties": {
+    "canonical_name": "uniform",
+    "part_of_speech": "adjective",
+    "definition": "Remaining the same in all cases and at all times; unchanging in form or character.",
+    "example_sentence": "The lesson files follow a uniform JSON structure.",
+    "synonyms": ["consistent", "constant", "unvarying", "homogeneous"],
+    "antonyms": ["variable", "inconsistent", "diverse"]
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "problem_description": "Dictionary: The word 'technique'",
+  "level": 2,
+  "dependencies": ["linguistics/L0_nouns.json"],
+  "properties": {
+    "canonical_name": "technique",
+    "part_of_speech": "noun",
+    "definition": "A skillful or efficient way of doing or achieving something.",
+    "example_sentence": "Instruction-tuning is a technique for teaching an AI new skills.",
+    "synonyms": ["method", "procedure", "approach", "methodology"],
+    "antonyms": ["haphazardness"]
+  }
+}

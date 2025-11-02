@@ -1,0 +1,13 @@
+{
+  "problem_description": "Dictionary: The word 'that'",
+  "level": 0,
+  "dependencies": ["linguistics/L0_conjunctions.json", "linguistics/L0_pronouns.json", "linguistics/L0_determiners.json"],
+  "properties": {
+    "canonical_name": "that",
+    "part_of_speech": "conjunction",
+    "definition": "A conjunction used to introduce a subordinate clause expressing a statement, hypothesis, or other information.",
+    "example_sentence": "We hypothesize that a better curriculum creates a smarter AI.",
+    "synonyms": [],
+    "antonyms": []
+  }
+}

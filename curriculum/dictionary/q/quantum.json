@@ -1,0 +1,13 @@
+{
+  "problem_description": "Dictionary: The word 'quantum'",
+  "level": 3,
+  "dependencies": ["linguistics/L0_adjectives.json", "linguistics/L0_nouns.json", "physics/L1_newtons_first_law.json"],
+  "properties": {
+    "canonical_name": "quantum",
+    "part_of_speech": "noun",
+    "definition": "A discrete quantity of energy proportional to the frequency of the radiation it represents; used as an adjective relating to quantum mechanics, the branch of physics dealing with the very small.",
+    "example_sentence": "The base-60 serialization makes the knowledge graph quantum-ready.",
+    "synonyms": ["discrete unit"],
+    "antonyms": ["continuous", "classical"]
+  }
+}

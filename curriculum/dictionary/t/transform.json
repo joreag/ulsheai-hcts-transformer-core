@@ -1,0 +1,13 @@
+{
+  "problem_description": "Dictionary: The word 'transform'",
+  "level": 2,
+  "dependencies": ["linguistics/L0_verbs.json", "ontology/L1_the_mict_cycle.json"],
+  "properties": {
+    "canonical_name": "transform",
+    "part_of_speech": "verb",
+    "definition": "To make a thorough or dramatic change in the form, appearance, or character of something.",
+    "example_sentence": "The 'Transform' stage is the final step in the MICT cycle.",
+    "synonyms": ["change", "alter", "convert", "metamorphose"],
+    "antonyms": ["preserve", "maintain", "stagnate"]
+  }
+}

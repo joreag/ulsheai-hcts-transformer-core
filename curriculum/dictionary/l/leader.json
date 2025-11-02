@@ -1,0 +1,13 @@
+{
+  "problem_description": "Dictionary: The word 'leader'",
+  "level": 2,
+  "dependencies": ["linguistics/L0_nouns.json", "dictionary/h/hierarchy.json"],
+  "properties": {
+    "canonical_name": "leader",
+    "part_of_speech": "noun",
+    "definition": "The person who leads or commands a group, organization, or country.",
+    "example_sentence": "In a project, the architect acts as the leader of the design phase.",
+    "synonyms": ["chief", "commander", "head", "director"],
+    "antonyms": ["follower", "subordinate"]
+  }
+}

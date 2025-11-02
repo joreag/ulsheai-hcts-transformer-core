@@ -1,0 +1,29 @@
+
+     {
+  "problem_description": "Level 2 Logic - Identifying Logical Fallacies (Affirming the Consequent)",
+  "level": 2,
+  "dependencies": ["level-1-logic-syllogisms"],
+  "hypothesis_templates": [
+    "((p implies q) and q) implies p"
+  ],
+  "training_data": [
+    {
+      "comment": "The 'raining' example. P=is_raining, Q=ground_is_wet. If P is false (sprinkler) but Q is true, the conclusion P is false. The fallacy is invalid.",
+      "p": false,
+      "q": true,
+      "expected_result": false
+    },
+    {
+      "comment": "Another case. P=True, Q=True. In this specific case, the statement happens to evaluate to True, but it's not a universal law.",
+      "p": true,
+      "q": true,
+      "expected_result": true
+    },
+    {
+      "comment": "Case where P=False, Q=False.",
+      "p": false,
+      "q": false,
+      "expected_result": true
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "problem_description": "Dictionary: The word 'when'",
+  "level": 0,
+  "dependencies": ["linguistics/L0_adverbs.json", "linguistics/L0_conjunctions.json"],
+  "properties": {
+    "canonical_name": "when",
+    "part_of_speech": "adverb",
+    "definition": "An interrogative word asking at what time.",
+    "example_sentence": "When will the training session be complete?",
+    "synonyms": [],
+    "antonyms": []
+  }
+}

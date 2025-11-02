@@ -1,0 +1,13 @@
+{
+  "problem_description": "Dictionary: The word 'is'",
+  "level": 0,
+  "dependencies": ["linguistics/L0_verbs.json"],
+  "properties": {
+    "canonical_name": "is",
+    "part_of_speech": "verb",
+    "definition": "The third person singular present of the verb 'be'; used to state a property or identity.",
+    "example_sentence": "The knowledge graph is the source of ground truth.",
+    "synonyms": ["exists as", "equals"],
+    "antonyms": ["is not", "isnt"]
+  }
+}

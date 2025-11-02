@@ -1,0 +1,13 @@
+{
+  "problem_description": "Dictionary: The word 'each'",
+  "level": 1,
+  "dependencies": ["linguistics/L0_determiners.json", "linguistics/L0_pronouns.json"],
+  "properties": {
+    "canonical_name": "each",
+    "part_of_speech": "determiner",
+    "definition": "Used to refer to every one of two or more people or things, regarded and identified separately.",
+    "example_sentence": "Each lesson file must be processed by the ingestion system.",
+    "synonyms": ["every", "individual"],
+    "antonyms": ["all"]
+  }
+}

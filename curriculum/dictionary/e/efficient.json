@@ -1,0 +1,13 @@
+{
+  "problem_description": "Dictionary: The word 'efficient'",
+  "level": 1,
+  "dependencies": ["linguistics/L0_adjectives.json"],
+  "properties": {
+    "canonical_name": "efficient",
+    "part_of_speech": "adjective",
+    "definition": "Achieving maximum productivity with minimum wasted effort, expense, or time.",
+    "example_sentence": "Training on a CPU is possible but not as efficient as using a GPU.",
+    "synonyms": ["effective", "productive", "streamlined"],
+    "antonyms": ["inefficient", "wasteful", "unproductive"]
+  }
+}

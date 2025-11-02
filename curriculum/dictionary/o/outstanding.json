@@ -1,0 +1,13 @@
+{
+  "problem_description": "Dictionary: The word 'outstanding'",
+  "level": 1,
+  "dependencies": ["linguistics/L0_adjectives.json"],
+  "properties": {
+    "canonical_name": "outstanding",
+    "part_of_speech": "adjective",
+    "definition": "Exceptionally good; clearly noticeable.",
+    "example_sentence": "The AI's ability to form analogies is an outstanding result.",
+    "synonyms": ["excellent", "remarkable", "exceptional", "superb"],
+    "antonyms": ["ordinary", "mediocre", "unremarkable"]
+  }
+}

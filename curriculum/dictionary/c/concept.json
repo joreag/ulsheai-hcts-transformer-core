@@ -1,0 +1,13 @@
+{
+  "problem_description": "Dictionary: The word 'concept'",
+  "level": 2,
+  "dependencies": ["linguistics/L0_nouns.json"],
+  "properties": {
+    "canonical_name": "concept",
+    "part_of_speech": "noun",
+    "definition": "An abstract idea or a general notion that can be applied to other ideas.",
+    "example_sentence": "A unified cognitive identity is a high-level concept.",
+    "synonyms": ["idea", "notion", "abstraction", "principle"],
+    "antonyms": ["fact", "instance", "reality"]
+  }
+}

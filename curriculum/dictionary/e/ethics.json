@@ -1,0 +1,13 @@
+{
+  "problem_description": "Dictionary: The word 'ethics'",
+  "level": 2,
+  "dependencies": ["linguistics/L0_nouns.json"],
+  "properties": {
+    "canonical_name": "ethics",
+    "part_of_speech": "noun",
+    "definition": "Moral principles that govern a person's or a group's behavior or the conducting of an activity.",
+    "example_sentence": "A robust AI must have a foundational curriculum for ethics.",
+    "synonyms": ["morality", "principles", "values", "conscience"],
+    "antonyms": ["immorality", "unscrupulousness"]
+  }
+}

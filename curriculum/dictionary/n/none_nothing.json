@@ -1,0 +1,15 @@
+{
+  "problem_description": "Dictionary: The words 'none' and 'nothing'",
+  "level": 1,
+  "dependencies": ["linguistics/L0_pronouns.json", "linguistics/L0_nouns.json"],
+  "properties": {
+    "canonical_name": "The Concept of Null",
+    "part_of_speech": "pronoun",
+    "definition": "Words used to indicate the absence of any quantity or thing.",
+    "example_sentence": "When there are no results, the output is nothing.",
+    "solution_rules": [
+      "none: not any of a group of people or things",
+      "nothing: not anything; no single thing"
+    ]
+  }
+}

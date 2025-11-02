@@ -1,0 +1,13 @@
+{
+  "problem_description": "Dictionary: The word 'remember'",
+  "level": 1,
+  "dependencies": ["linguistics/L0_verbs.json"],
+  "properties": {
+    "canonical_name": "remember",
+    "part_of_speech": "verb",
+    "definition": "To have in or be able to bring to one's mind an awareness of someone or something from the past.",
+    "example_sentence": "The AI does not need to remember facts that are stored in the knowledge graph.",
+    "synonyms": ["recall", "recollect", "retain"],
+    "antonyms": ["forget"]
+  }
+}

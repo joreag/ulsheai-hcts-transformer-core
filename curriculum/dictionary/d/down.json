@@ -1,0 +1,13 @@
+{
+  "problem_description": "Dictionary: The word 'down'",
+  "level": 0,
+  "dependencies": ["linguistics/L0_adverbs.json", "linguistics/L0_prepositions.json"],
+  "properties": {
+    "canonical_name": "down",
+    "part_of_speech": "adverb",
+    "definition": "Toward or in a lower place, position, or level.",
+    "example_sentence": "We broke the problem down into smaller parts.",
+    "synonyms": ["below", "under"],
+    "antonyms": ["up", "above"]
+  }
+}

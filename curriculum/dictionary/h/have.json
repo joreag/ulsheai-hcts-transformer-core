@@ -1,0 +1,13 @@
+{
+  "problem_description": "Dictionary: The word 'have'",
+  "level": 0,
+  "dependencies": ["linguistics/L0_verbs.json"],
+  "properties": {
+    "canonical_name": "have",
+    "part_of_speech": "verb",
+    "definition": "To possess, own, or hold.",
+    "example_sentence": "The AI will have the tools it needs to communicate.",
+    "synonyms": ["possess", "own", "contain"],
+    "antonyms": ["lack", "need"]
+  }
+}

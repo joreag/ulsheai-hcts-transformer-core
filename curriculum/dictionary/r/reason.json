@@ -1,0 +1,13 @@
+{
+  "problem_description": "Dictionary: The word 'reason'",
+  "level": 2,
+  "dependencies": ["linguistics/L0_nouns.json", "linguistics/L0_verbs.json", "dictionary/l/logic.json"],
+  "properties": {
+    "canonical_name": "reason",
+    "part_of_speech": "noun",
+    "definition": "The power of the mind to think, understand, and form judgments by a process of logic.",
+    "example_sentence": "The AI's ability to connect disparate concepts is a sign of true reason.",
+    "synonyms": ["logic", "intellect", "judgment", "sense"],
+    "antonyms": ["intuition", "emotion", "irrationality"]
+  }
+}

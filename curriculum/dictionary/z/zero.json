@@ -1,0 +1,13 @@
+{
+  "problem_description": "Dictionary: The word 'zero'",
+  "level": 1,
+  "dependencies": ["linguistics/L0_nouns.json", "primitives/numeracy_0.json"],
+  "properties": {
+    "canonical_name": "zero",
+    "part_of_speech": "noun",
+    "definition": "The number 0; a point on a scale or instrument from which a positive or negative quantity is reckoned.",
+    "example_sentence": "A function with zero errors is the ideal state.",
+    "synonyms": ["nil", "naught", "null", "nothing"],
+    "antonyms": ["infinity"]
+  }
+}

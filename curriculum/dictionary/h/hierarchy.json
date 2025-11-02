@@ -1,0 +1,13 @@
+{
+  "problem_description": "Dictionary: The word 'hierarchy'",
+  "level": 2,
+  "dependencies": ["linguistics/L0_nouns.json", "ontology/L2_hcts_architecture.json"],
+  "properties": {
+    "canonical_name": "hierarchy",
+    "part_of_speech": "noun",
+    "definition": "A system in which members of an organization or concepts in a system are ranked according to relative status, authority, or level of abstraction.",
+    "example_sentence": "The HCTS architecture is a form of cognitive hierarchy.",
+    "synonyms": ["ranking", "pecking order", "echelon", "structure"],
+    "antonyms": ["equality", "anarchy"]
+  }
+}

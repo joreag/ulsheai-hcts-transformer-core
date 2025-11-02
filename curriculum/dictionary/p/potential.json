@@ -1,0 +1,13 @@
+{
+  "problem_description": "Dictionary: The word 'potential'",
+  "level": 2,
+  "dependencies": ["linguistics/L0_adjectives.json", "linguistics/L0_nouns.json"],
+  "properties": {
+    "canonical_name": "potential",
+    "part_of_speech": "adjective",
+    "definition": "Having or showing the capacity to become or develop into something in the future.",
+    "example_sentence": "The architecture has the potential to be very efficient.",
+    "synonyms": ["possible", "latent", "likely", "prospective"],
+    "antonyms": ["impossible", "actual", "realized"]
+  }
+}

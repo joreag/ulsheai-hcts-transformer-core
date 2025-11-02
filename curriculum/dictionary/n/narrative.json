@@ -1,0 +1,13 @@
+{
+  "problem_description": "Dictionary: The word 'narrative'",
+  "level": 2,
+  "dependencies": ["linguistics/L0_nouns.json"],
+  "properties": {
+    "canonical_name": "narrative",
+    "part_of_speech": "noun",
+    "definition": "A spoken or written account of connected events; a story.",
+    "example_sentence": "The executive summary tells the narrative of the project.",
+    "synonyms": ["story", "account", "chronicle"],
+    "antonyms": ["data", "statistic"]
+  }
+}

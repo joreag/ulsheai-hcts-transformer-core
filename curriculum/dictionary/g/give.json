@@ -1,0 +1,13 @@
+{
+  "problem_description": "Dictionary: The word 'give'",
+  "level": 0,
+  "dependencies": ["linguistics/L0_verbs.json"],
+  "properties": {
+    "canonical_name": "give",
+    "part_of_speech": "verb",
+    "definition": "To freely transfer the possession of something to someone; to cause or allow someone to have.",
+    "example_sentence": "We need to give the AI a robust curriculum.",
+    "synonyms": ["provide", "supply", "offer", "present"],
+    "antonyms": ["take", "receive", "withhold"]
+  }
+}

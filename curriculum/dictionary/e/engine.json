@@ -1,0 +1,13 @@
+{
+  "problem_description": "Dictionary: The word 'engine'",
+  "level": 1,
+  "dependencies": ["linguistics/L0_nouns.json"],
+  "properties": {
+    "canonical_name": "engine",
+    "part_of_speech": "noun",
+    "definition": "A machine with moving parts that converts power into motion; a thing that is the agent or instrument of a particular process.",
+    "example_sentence": "The cognitive engine orchestrates the different parts of the AI.",
+    "synonyms": ["motor", "mechanism", "system", "instrument"],
+    "antonyms": []
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "problem_description": "Dictionary: The word 'kick'",
+  "level": 0,
+  "dependencies": ["linguistics/L0_verbs.json"],
+  "properties": {
+    "canonical_name": "kick",
+    "part_of_speech": "verb",
+    "definition": "To strike or propel forcefully with the foot.",
+    "example_sentence": "We will kick off the new training session.",
+    "synonyms": ["strike", "boot", "punt"],
+    "antonyms": []
+  }
+}

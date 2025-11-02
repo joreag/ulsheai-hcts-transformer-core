@@ -1,0 +1,13 @@
+{
+  "problem_description": "Dictionary: The word 'obstacle'",
+  "level": 1,
+  "dependencies": ["linguistics/L0_nouns.json"],
+  "properties": {
+    "canonical_name": "obstacle",
+    "part_of_speech": "noun",
+    "definition": "A thing that blocks one's way or prevents or hinders progress.",
+    "example_sentence": "The primary obstacle was a bug in the data loading pipeline.",
+    "synonyms": ["barrier", "hurdle", "hindrance", "impediment"],
+    "antonyms": ["advantage", "aid", "help"]
+  }
+}

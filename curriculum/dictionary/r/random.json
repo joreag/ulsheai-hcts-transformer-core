@@ -1,0 +1,13 @@
+{
+  "problem_description": "Dictionary: The word 'random'",
+  "level": 2,
+  "dependencies": ["linguistics/L0_adjectives.json"],
+  "properties": {
+    "canonical_name": "random",
+    "part_of_speech": "adjective",
+    "definition": "Made, done, or happening without method or conscious decision.",
+    "example_sentence": "A QRNG provides truly random numbers, unlike a deterministic algorithm.",
+    "synonyms": ["unpredictable", "haphazard", "arbitrary", "stochastic"],
+    "antonyms": ["deterministic", "systematic", "ordered"]
+  }
+}

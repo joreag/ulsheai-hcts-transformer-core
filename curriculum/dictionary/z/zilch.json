@@ -1,0 +1,13 @@
+{
+  "problem_description": "Dictionary: The word 'zilch'",
+  "level": 1,
+  "dependencies": ["linguistics/L0_nouns.json", "dictionary/z/zero.json"],
+  "properties": {
+    "canonical_name": "zilch",
+    "part_of_speech": "noun",
+    "definition": "An informal term for nothing; zero.",
+    "example_sentence": "Without a proper curriculum, the AI's understanding was zilch.",
+    "synonyms": ["nothing", "zero", "naught", "nil"],
+    "antonyms": ["everything", "plenty"]
+  }
+}

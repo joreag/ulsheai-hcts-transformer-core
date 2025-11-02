@@ -1,0 +1,13 @@
+{
+  "problem_description": "Dictionary: The word 'truth'",
+  "level": 2,
+  "dependencies": ["linguistics/L0_nouns.json"],
+  "properties": {
+    "canonical_name": "truth",
+    "part_of_speech": "noun",
+    "definition": "That which is true or in accordance with fact or reality.",
+    "example_sentence": "The knowledge graph acts as the source of ground truth for the AI.",
+    "synonyms": ["fact", "reality", "veracity", "certainty"],
+    "antonyms": ["falsehood", "lie", "fallacy", "fiction"]
+  }
+}

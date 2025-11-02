@@ -1,0 +1,13 @@
+{
+  "problem_description": "Dictionary: The word 'generally'",
+  "level": 1,
+  "dependencies": ["linguistics/L0_adverbs.json"],
+  "properties": {
+    "canonical_name": "generally",
+    "part_of_speech": "adverb",
+    "definition": "In most cases; usually.",
+    "example_sentence": "Interrupting a speaker is generally considered impolite.",
+    "synonyms": ["usually", "typically", "mostly", "in general"],
+    "antonyms": ["specifically", "rarely", "unusually"]
+  }
+}

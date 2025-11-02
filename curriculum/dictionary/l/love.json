@@ -1,0 +1,13 @@
+{
+  "problem_description": "Dictionary: The word 'love'",
+  "level": 3,
+  "dependencies": ["linguistics/L0_nouns.json"],
+  "properties": {
+    "canonical_name": "love",
+    "part_of_speech": "noun",
+    "definition": "An intense feeling of deep affection; a great interest and pleasure in something.",
+    "example_sentence": "Humans often express love for their family, their work, or their pets.",
+    "synonyms": ["affection", "fondness", "passion", "adoration"],
+    "antonyms": ["hate", "indifference"]
+  }
+}

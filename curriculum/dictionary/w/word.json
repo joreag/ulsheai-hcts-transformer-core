@@ -1,0 +1,13 @@
+{
+  "problem_description": "Dictionary: The word 'word'",
+  "level": 0,
+  "dependencies": ["linguistics/L0_nouns.json"],
+  "properties": {
+    "canonical_name": "word",
+    "part_of_speech": "noun",
+    "definition": "A single distinct meaningful element of speech or writing, used with others to form a sentence.",
+    "example_sentence": "Each lesson teaches the AI a new word.",
+    "synonyms": ["term", "token", "lexical item"],
+    "antonyms": []
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "problem_description": "Dictionary: The word 'for'",
+  "level": 0,
+  "dependencies": ["linguistics/L0_prepositions.json", "linguistics/L0_conjunctions.json"],
+  "properties": {
+    "canonical_name": "for",
+    "part_of_speech": "preposition",
+    "definition": "Indicating the purpose or recipient of an action or the reason for something.",
+    "example_sentence": "The L4 Guardian checks for mission alignment.",
+    "synonyms": ["because of", "on behalf of"],
+    "antonyms": []
+  }
+}

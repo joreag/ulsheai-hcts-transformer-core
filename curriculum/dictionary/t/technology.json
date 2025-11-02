@@ -1,0 +1,13 @@
+{
+  "problem_description": "Dictionary: The word 'technology'",
+  "level": 2,
+  "dependencies": ["linguistics/L0_nouns.json"],
+  "properties": {
+    "canonical_name": "technology",
+    "part_of_speech": "noun",
+    "definition": "The application of scientific knowledge for practical purposes, especially in industry.",
+    "example_sentence": "The Rust port is a key part of our technology roadmap.",
+    "synonyms": ["engineering", "machinery", "automation"],
+    "antonyms": []
+  }
+}

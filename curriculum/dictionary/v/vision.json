@@ -1,0 +1,13 @@
+{
+  "problem_description": "Dictionary: The word 'vision'",
+  "level": 2,
+  "dependencies": ["linguistics/L0_nouns.json"],
+  "properties": {
+    "canonical_name": "vision",
+    "part_of_speech": "noun",
+    "definition": "The faculty or state of being able to see; the ability to think about or plan the future with imagination or wisdom.",
+    "example_sentence": "The project's vision is to create a new paradigm for AI.",
+    "synonyms": ["foresight", "imagination", "insight", "perception"],
+    "antonyms": ["blindness", "shortsightedness"]
+  }
+}

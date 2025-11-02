@@ -1,0 +1,13 @@
+{
+  "problem_description": "Dictionary: The word 'dynamic'",
+  "level": 2,
+  "dependencies": ["linguistics/L0_adjectives.json"],
+  "properties": {
+    "canonical_name": "dynamic",
+    "part_of_speech": "adjective",
+    "definition": "Characterized by constant change, activity, or progress.",
+    "example_sentence": "The MICT cycle creates a dynamic and adaptive system.",
+    "synonyms": ["energetic", "active", "evolving"],
+    "antonyms": ["static", "stable", "unchanging"]
+  }
+}

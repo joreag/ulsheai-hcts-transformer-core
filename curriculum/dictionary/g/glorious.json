@@ -1,0 +1,13 @@
+{
+  "problem_description": "Dictionary: The word 'glorious'",
+  "level": 2,
+  "dependencies": ["linguistics/L0_adjectives.json"],
+  "properties": {
+    "canonical_name": "glorious",
+    "part_of_speech": "adjective",
+    "definition": "Having, worthy of, or bringing fame or admiration; magnificent or splendid.",
+    "example_sentence": "The successful training run was a glorious achievement.",
+    "synonyms": ["magnificent", "splendid", "superb", "wonderful"],
+    "antonyms": ["terrible", "dismal", "inglorious"]
+  }
+}

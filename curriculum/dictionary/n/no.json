@@ -1,0 +1,13 @@
+{
+  "problem_description": "Dictionary: The word 'no'",
+  "level": 0,
+  "dependencies": ["linguistics/L0_determiners.json"],
+  "properties": {
+    "canonical_name": "no",
+    "part_of_speech": "determiner",
+    "definition": "Used to give a negative response; not any.",
+    "example_sentence": "No, that is not the correct answer.",
+    "synonyms": ["not", "never"],
+    "antonyms": ["yes", "all", "always"]
+  }
+}

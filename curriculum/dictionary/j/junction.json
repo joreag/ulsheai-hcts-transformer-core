@@ -1,0 +1,13 @@
+{
+  "problem_description": "Dictionary: The word 'junction'",
+  "level": 1,
+  "dependencies": ["linguistics/L0_nouns.json", "dictionary/n/node.json"],
+  "properties": {
+    "canonical_name": "junction",
+    "part_of_speech": "noun",
+    "definition": "A point where two or more things are joined.",
+    "example_sentence": "Each node in the graph is a junction of related concepts.",
+    "synonyms": ["intersection", "node", "connection", "link"],
+    "antonyms": ["disconnection"]
+  }
+}

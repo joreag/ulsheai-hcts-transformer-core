@@ -1,0 +1,13 @@
+{
+  "problem_description": "Dictionary: The word 'dependency'",
+  "level": 1,
+  "dependencies": ["linguistics/L0_nouns.json"],
+  "properties": {
+    "canonical_name": "dependency",
+    "part_of_speech": "noun",
+    "definition": "A state of being reliant on something else for aid, support, or function.",
+    "example_sentence": "The 'Complex Sentence' lesson has a dependency on the 'Independent Clause' lesson.",
+    "synonyms": ["reliance", "connection", "link"],
+    "antonyms": ["independence"]
+  }
+}

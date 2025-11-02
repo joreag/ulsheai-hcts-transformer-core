@@ -1,0 +1,17 @@
+{
+  "problem_description": "Dictionary: Demonstrative Pronouns",
+  "level": 0,
+  "dependencies": ["linguistics/L0_pronouns.json"],
+  "properties": {
+    "canonical_name": "Demonstrative Pronouns",
+    "part_of_speech": "pronoun",
+    "definition": "Pronouns that point to specific things.",
+    "example_sentence": "This is the correct model, while that one is outdated.",
+    "solution_rules": [
+      "this: used to identify a specific person or thing close at hand",
+      "that: used to identify a specific person or thing farther away",
+      "these: the plural form of 'this', used for multiple items close at hand",
+      "those: the plural form of 'that', used for multiple items farther away"
+    ]
+  }
+}

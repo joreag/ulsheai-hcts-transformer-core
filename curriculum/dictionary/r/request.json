@@ -1,0 +1,13 @@
+{
+  "problem_description": "Dictionary: The word 'request'",
+  "level": 1,
+  "dependencies": ["linguistics/L0_nouns.json", "linguistics/L0_verbs.json"],
+  "properties": {
+    "canonical_name": "request",
+    "part_of_speech": "noun",
+    "definition": "An act of asking politely or formally for something.",
+    "example_sentence": "The L3 Guardian evaluates every request for system resources.",
+    "synonyms": ["query", "inquiry", "appeal"],
+    "antonyms": ["command", "demand"]
+  }
+}

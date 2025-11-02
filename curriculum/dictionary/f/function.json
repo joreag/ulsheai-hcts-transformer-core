@@ -1,0 +1,13 @@
+{
+  "problem_description": "Dictionary: The word 'function'",
+  "level": 1,
+  "dependencies": ["linguistics/L0_nouns.json", "linguistics/L0_verbs.json"],
+  "properties": {
+    "canonical_name": "function",
+    "part_of_speech": "noun",
+    "definition": "An activity or purpose natural to or intended for a person or thing; in programming, a named sequence of statements that performs a computation.",
+    "example_sentence": "Each script has a specific function in the build process.",
+    "synonyms": ["purpose", "role", "task", "operation", "subroutine"],
+    "antonyms": ["disuse", "malfunction"]
+  }
+}

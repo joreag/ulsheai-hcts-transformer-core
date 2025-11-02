@@ -1,0 +1,45 @@
+     {
+  "problem_description": "Level 1 Logic - Verifying Deductive Syllogisms",
+  "level": 1,
+  "dependencies": ["level-0-logic-boolean-operators"],
+  "hypothesis_templates": [
+    "(premise1 and premise2) implies conclusion"
+  ],
+  "training_data": [
+    {
+      "comment": "Classic valid syllogism (Modus Ponens).",
+      "premise1": true,
+      "premise2": true,
+      "conclusion": true,
+      "expected_result": true
+    },
+    {
+      "comment": "A valid argument cannot have true premises and a false conclusion.",
+      "premise1": true,
+      "premise2": true,
+      "conclusion": false,
+      "expected_result": false
+    },
+    {
+      "comment": "If a premise is false, the argument is still considered logically valid (though not sound).",
+      "premise1": true,
+      "premise2": false,
+      "conclusion": true,
+      "expected_result": true
+    },
+    {
+      "comment": "If a premise is false, the argument is still considered logically valid (though not sound).",
+      "premise1": true,
+      "premise2": false,
+      "conclusion": false,
+      "expected_result": true
+    },
+    {
+      "comment": "Negative Knowledge: Testing an invalid hypothesis structure.",
+      "premise1": true,
+      "premise2": false,
+      "conclusion": true,
+      "expected_result": false
+    }
+  ]
+}

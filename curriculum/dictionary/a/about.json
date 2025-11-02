@@ -1,0 +1,13 @@
+{
+  "problem_description": "Dictionary: The word 'about'",
+  "level": 0,
+  "dependencies": ["linguistics/L0_prepositions.json", "linguistics/L0_adverbs.json"],
+  "properties": {
+    "canonical_name": "about",
+    "part_of_speech": "preposition",
+    "definition": "On the subject of; concerning.",
+    "example_sentence": "This lesson is about the nature of knowledge.",
+    "synonyms": ["regarding", "concerning", "on"],
+    "antonyms": []
+  }
+}

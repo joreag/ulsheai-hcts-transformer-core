@@ -1,0 +1,13 @@
+{
+  "problem_description": "Dictionary: The word 'galaxy'",
+  "level": 1,
+  "dependencies": ["linguistics/L0_nouns.json", "ontology/L0_the_mobius_principle.json"],
+  "properties": {
+    "canonical_name": "galaxy",
+    "part_of_speech": "noun",
+    "definition": "A system of millions or billions of stars, together with gas and dust, held together by gravitational attraction.",
+    "example_sentence": "A galaxy is a complex system of interconnected celestial bodies.",
+    "synonyms": ["star-system", "nebula", "cosmos"],
+    "antonyms": []
+  }
+}

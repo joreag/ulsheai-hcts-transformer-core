@@ -1,0 +1,13 @@
+{
+  "problem_description": "Dictionary: The word 'where'",
+  "level": 0,
+  "dependencies": ["linguistics/L0_adverbs.json", "linguistics/L0_conjunctions.json"],
+  "properties": {
+    "canonical_name": "where",
+    "part_of_speech": "adverb",
+    "definition": "An interrogative word asking in or to what place or position.",
+    "example_sentence": "Where in the script is the model loaded?",
+    "synonyms": [],
+    "antonyms": []
+  }
+}

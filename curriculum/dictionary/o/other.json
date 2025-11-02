@@ -1,0 +1,13 @@
+{
+  "problem_description": "Dictionary: The word 'other'",
+  "level": 0,
+  "dependencies": ["linguistics/L0_adjectives.json", "linguistics/L0_pronouns.json"],
+  "properties": {
+    "canonical_name": "other",
+    "part_of_speech": "adjective",
+    "definition": "Used to refer to a person or thing that is different from one already mentioned or known; separate or distinct.",
+    "example_sentence": "The model's recall for other concepts remains strong.",
+    "synonyms": ["different", "additional", "alternative"],
+    "antonyms": ["same"]
+  }
+}

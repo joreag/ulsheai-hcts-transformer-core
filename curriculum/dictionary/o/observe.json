@@ -1,0 +1,13 @@
+{
+  "problem_description": "Dictionary: The word 'observe'",
+  "level": 1,
+  "dependencies": ["linguistics/L0_verbs.json"],
+  "properties": {
+    "canonical_name": "observe",
+    "part_of_speech": "verb",
+    "definition": "To notice or perceive something and register it as being significant.",
+    "example_sentence": "We can observe emergent behavior by analyzing the latent space.",
+    "synonyms": ["watch", "monitor", "notice", "perceive"],
+    "antonyms": ["ignore", "overlook"]
+  }
+}

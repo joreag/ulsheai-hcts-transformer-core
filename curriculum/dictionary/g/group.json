@@ -1,0 +1,13 @@
+{
+  "problem_description": "Dictionary: The word 'group'",
+  "level": 1,
+  "dependencies": ["linguistics/L0_nouns.json", "linguistics/L0_verbs.json"],
+  "properties": {
+    "canonical_name": "group",
+    "part_of_speech": "noun",
+    "definition": "A number of people or things that are located, gathered, or classed together.",
+    "example_sentence": "The AI can group similar concepts into a single cluster.",
+    "synonyms": ["collection", "set", "cluster", "category"],
+    "antonyms": ["individual"]
+  }
+}

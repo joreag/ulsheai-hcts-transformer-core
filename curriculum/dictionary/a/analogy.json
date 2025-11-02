@@ -1,0 +1,13 @@
+{
+  "problem_description": "Dictionary: The word 'analogy'",
+  "level": 2,
+  "dependencies": ["linguistics/L0_nouns.json", "dictionary/c/comparison.json"],
+  "properties": {
+    "canonical_name": "analogy",
+    "part_of_speech": "noun",
+    "definition": "A comparison between two things, typically for the purpose of explanation or clarification.",
+    "example_sentence": "He drew an analogy between the human brain and a computer.",
+    "synonyms": ["comparison", "metaphor", "parallel"],
+    "antonyms": ["dissimilarity", "contrast"]
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "problem_description": "Dictionary: The word 'meaning'",
+  "level": 2,
+  "dependencies": ["linguistics/L0_nouns.json", "dictionary/s/semantic.json"],
+  "properties": {
+    "canonical_name": "meaning",
+    "part_of_speech": "noun",
+    "definition": "What is meant by a word, text, concept, or action; the implied or explicit significance.",
+    "example_sentence": "The AI is beginning to form connections based on meaning, not just statistics.",
+    "synonyms": ["significance", "sense", "connotation", "substance"],
+    "antonyms": ["meaninglessness", "nonsense"]
+  }
+}

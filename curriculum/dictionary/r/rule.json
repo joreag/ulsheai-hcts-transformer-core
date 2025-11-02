@@ -1,0 +1,13 @@
+{
+  "problem_description": "Dictionary: The word 'rule'",
+  "level": 1,
+  "dependencies": ["linguistics/L0_nouns.json", "dictionary/p/principle.json"],
+  "properties": {
+    "canonical_name": "rule",
+    "part_of_speech": "noun",
+    "definition": "One of a set of explicit or understood regulations or principles governing conduct or procedure within a particular activity or sphere.",
+    "example_sentence": "The 'solution_rules' property contains the core facts for a lesson.",
+    "synonyms": ["regulation", "principle", "law", "guideline"],
+    "antonyms": ["chaos", "exception"]
+  }
+}

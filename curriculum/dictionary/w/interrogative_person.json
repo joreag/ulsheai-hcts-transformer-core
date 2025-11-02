@@ -1,0 +1,16 @@
+{
+  "problem_description": "Dictionary: Interrogatives of Person",
+  "level": 1,
+  "dependencies": ["linguistics/L0_pronouns.json", "dictionary/p/person.json"],
+  "properties": {
+    "canonical_name": "Interrogatives of Person",
+    "part_of_speech": "pronoun",
+    "definition": "Pronouns used to ask questions about people, their roles, and their possessions.",
+    "example_sentence": "Who is the actor making the request?",
+    "solution_rules": [
+      "who: used to ask about the subject of an action",
+      "whom: used to ask about the object of a verb or preposition",
+      "whose: used to ask about possession"
+    ]
+  }
+}

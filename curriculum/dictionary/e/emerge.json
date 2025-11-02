@@ -1,0 +1,13 @@
+{
+  "problem_description": "Dictionary: The word 'emerge'",
+  "level": 2,
+  "dependencies": ["linguistics/L0_verbs.json"],
+  "properties": {
+    "canonical_name": "emerge",
+    "part_of_speech": "verb",
+    "definition": "To become apparent, prominent, or important; to move out of or away from something and come into view.",
+    "example_sentence": "New, unexpected behaviors can emerge from complex systems.",
+    "synonyms": ["appear", "arise", "materialize"],
+    "antonyms": ["disappear", "vanish", "hide"]
+  }
+}

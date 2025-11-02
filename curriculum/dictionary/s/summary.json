@@ -1,0 +1,13 @@
+{
+  "problem_description": "Dictionary: The word 'summary'",
+  "level": 1,
+  "dependencies": ["linguistics/L0_nouns.json"],
+  "properties": {
+    "canonical_name": "summary",
+    "part_of_speech": "noun",
+    "definition": "A brief statement or account of the main points of something.",
+    "example_sentence": "The executive summary provides a high-level overview of the project.",
+    "synonyms": ["synopsis", "abstract", "recapitulation", "overview"],
+    "antonyms": ["expansion", "details"]
+  }
+}

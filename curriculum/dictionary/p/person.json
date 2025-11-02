@@ -1,0 +1,13 @@
+{
+  "problem_description": "Dictionary: The word 'person'",
+  "level": 1,
+  "dependencies": ["linguistics/L0_nouns.json", "dictionary/h/human.json"],
+  "properties": {
+    "canonical_name": "person",
+    "part_of_speech": "noun",
+    "definition": "An individual human being.",
+    "example_sentence": "The AI's responses must be understandable to a person.",
+    "synonyms": ["human being", "individual", "self"],
+    "antonyms": ["group", "crowd", "object"]
+  }
+}

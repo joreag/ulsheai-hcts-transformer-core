@@ -1,0 +1,13 @@
+{
+  "problem_description": "Dictionary: The word 'kingdom'",
+  "level": 1,
+  "dependencies": ["linguistics/L0_nouns.json", "ontology/L2_hcts_architecture.json"],
+  "properties": {
+    "canonical_name": "kingdom",
+    "part_of_speech": "noun",
+    "definition": "A country, state, or territory ruled by a king or queen; one of the main divisions into which natural objects are classified.",
+    "example_sentence": "The curriculum is organized into a kingdom of related domains.",
+    "synonyms": ["realm", "domain", "empire", "classification"],
+    "antonyms": []
+  }
+}

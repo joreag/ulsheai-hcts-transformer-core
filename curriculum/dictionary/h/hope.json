@@ -1,0 +1,13 @@
+{
+  "problem_description": "Dictionary: The word 'hope'",
+  "level": 2,
+  "dependencies": ["linguistics/L0_nouns.json", "linguistics/L0_verbs.json"],
+  "properties": {
+    "canonical_name": "hope",
+    "part_of_speech": "noun",
+    "definition": "A feeling of expectation and desire for a certain thing to happen.",
+    "example_sentence": "We have high hope for the outcome of the next training session.",
+    "synonyms": ["aspiration", "desire", "ambition", "optimism"],
+    "antonyms": ["despair", "pessimism"]
+  }
+}

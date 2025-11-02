@@ -1,0 +1,13 @@
+{
+  "problem_description": "Dictionary: The word 'could'",
+  "level": 0,
+  "dependencies": ["linguistics/L0_verbs.json"],
+  "properties": {
+    "canonical_name": "could",
+    "part_of_speech": "modal_verb",
+    "definition": "Used as the past tense of 'can', to express possibility.",
+    "example_sentence": "We realized the AI could be trained on a CPU.",
+    "synonyms": ["might", "be able to"],
+    "antonyms": ["could not", "cannot"]
+  }
+}

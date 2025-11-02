@@ -1,0 +1,16 @@
+{
+  "problem_description": "Dictionary: The words 'my', 'me', 'mine'",
+  "level": 1,
+  "dependencies": ["linguistics/L0_pronouns.json", "ontology/L5_sentience_verification.json"],
+  "properties": {
+    "canonical_name": "First-Person Pronouns",
+    "part_of_speech": "pronoun",
+    "definition": "Pronouns used by a speaker to refer to themself.",
+    "example_sentence": "My purpose is to learn, and the knowledge is mine.",
+    "solution_rules": [
+      "my: a possessive pronoun indicating ownership by the speaker",
+      "me: an object pronoun used when the speaker is the recipient of an action",
+      "mine: a possessive pronoun indicating something belongs to the speaker"
+    ]
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "problem_description": "Dictionary: The word 'cycle'",
+  "level": 1,
+  "dependencies": ["linguistics/L0_nouns.json", "ontology/L1_the_mict_cycle.json"],
+  "properties": {
+    "canonical_name": "cycle",
+    "part_of_speech": "noun",
+    "definition": "A series of events that are regularly repeated in the same order.",
+    "example_sentence": "The MICT cycle has four distinct stages.",
+    "synonyms": ["loop", "rotation", "series", "sequence"],
+    "antonyms": ["linearity", "stasis"]
+  }
+}

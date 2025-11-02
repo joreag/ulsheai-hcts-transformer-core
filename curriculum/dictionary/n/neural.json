@@ -1,0 +1,13 @@
+{
+  "problem_description": "Dictionary: The word 'neural'",
+  "level": 2,
+  "dependencies": ["linguistics/L0_adjectives.json", "dictionary/b/brain.json"],
+  "properties": {
+    "canonical_name": "neural",
+    "part_of_speech": "adjective",
+    "definition": "Relating to a nerve or the nervous system.",
+    "example_sentence": "A transformer model is a type of artificial neural network.",
+    "synonyms": ["neurological", "sensory"],
+    "antonyms": []
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "problem_description": "Dictionary: The word 'monitor'",
+  "level": 1,
+  "dependencies": ["linguistics/L0_verbs.json"],
+  "properties": {
+    "canonical_name": "monitor",
+    "part_of_speech": "verb",
+    "definition": "To observe and check the progress or quality of something over a period of time; keep under systematic review.",
+    "example_sentence": "The L4 Guardian will monitor the long-term health of the entire system.",
+    "synonyms": ["observe", "watch", "track", "supervise"],
+    "antonyms": ["neglect", "ignore"]
+  }
+}

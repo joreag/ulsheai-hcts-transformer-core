@@ -1,0 +1,13 @@
+{
+  "problem_description": "Dictionary: The word 'kind'",
+  "level": 0,
+  "dependencies": ["linguistics/L0_nouns.json", "linguistics/L0_adjectives.json"],
+  "properties": {
+    "canonical_name": "kind",
+    "part_of_speech": "noun",
+    "definition": "A class or group of things having similar characteristics; also an adjective for having a friendly, generous, and considerate nature.",
+    "example_sentence": "This is a new kind of AI architecture.",
+    "synonyms": ["type", "sort", "category", "class", "species"],
+    "antonyms": []
+  }
+}

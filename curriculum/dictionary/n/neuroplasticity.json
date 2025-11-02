@@ -1,0 +1,13 @@
+{
+  "problem_description": "Dictionary: The word 'neuroplasticity'",
+  "level": 3,
+  "dependencies": ["linguistics/L0_nouns.json", "dictionary/n/neural.json"],
+  "properties": {
+    "canonical_name": "neuroplasticity",
+    "part_of_speech": "noun",
+    "definition": "The ability of the brain to form and reorganize synaptic connections, especially in response to learning or experience.",
+    "example_sentence": "The AI's ability to be retrained demonstrates conceptual neuroplasticity.",
+    "synonyms": ["brain plasticity", "malleability", "adaptability"],
+    "antonyms": ["rigidity", "fixedness"]
+  }
+}

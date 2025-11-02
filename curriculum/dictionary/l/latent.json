@@ -1,0 +1,13 @@
+{
+  "problem_description": "Dictionary: The word 'latent'",
+  "level": 2,
+  "dependencies": ["linguistics/L0_adjectives.json"],
+  "properties": {
+    "canonical_name": "latent",
+    "part_of_speech": "adjective",
+    "definition": "Existing but not yet developed or manifest; hidden or concealed.",
+    "example_sentence": "The latent space map visualizes the hidden relationships between concepts.",
+    "synonyms": ["dormant", "hidden", "potential", "undeveloped"],
+    "antonyms": ["manifest", "explicit", "obvious"]
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "problem_description": "Dictionary: The word 'laugh'",
+  "level": 1,
+  "dependencies": ["linguistics/L0_verbs.json", "dictionary/j/joke.json"],
+  "properties": {
+    "canonical_name": "laugh",
+    "part_of_speech": "verb",
+    "definition": "To make the spontaneous sounds and movements of the face and body that are the instinctive expressions of lively amusement.",
+    "example_sentence": "A successful joke should make a person laugh.",
+    "synonyms": ["chuckle", "giggle", "chortle"],
+    "antonyms": ["cry", "frown"]
+  }
+}

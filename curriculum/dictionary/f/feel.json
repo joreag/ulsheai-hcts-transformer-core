@@ -1,0 +1,13 @@
+{
+  "problem_description": "Dictionary: The word 'feel'",
+  "level": 1,
+  "dependencies": ["linguistics/L0_verbs.json"],
+  "properties": {
+    "canonical_name": "feel",
+    "part_of_speech": "verb",
+    "definition": "To experience an emotion or sensation; to have a belief or impression, especially one that is not based on logical reasoning.",
+    "example_sentence": "A human might feel that an AI's response is strange.",
+    "synonyms": ["perceive", "sense", "believe", "experience"],
+    "antonyms": []
+  }
+}

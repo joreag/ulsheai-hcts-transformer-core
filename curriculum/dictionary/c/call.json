@@ -1,0 +1,13 @@
+{
+  "problem_description": "Dictionary: The word 'call'",
+  "level": 0,
+  "dependencies": ["linguistics/L0_verbs.json", "linguistics/L0_nouns.json"],
+  "properties": {
+    "canonical_name": "call",
+    "part_of_speech": "verb",
+    "definition": "To give a name to; to cry out to someone to attract their attention.",
+    "example_sentence": "The orchestrator will call the trainer script.",
+    "synonyms": ["name", "label", "summon", "shout"],
+    "antonyms": []
+  }
+}

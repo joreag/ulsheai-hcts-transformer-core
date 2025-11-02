@@ -1,0 +1,13 @@
+{
+  "problem_description": "Dictionary: The word 'variation'",
+  "level": 1,
+  "dependencies": ["linguistics/L0_nouns.json"],
+  "properties": {
+    "canonical_name": "variation",
+    "part_of_speech": "noun",
+    "definition": "A change or difference in condition, amount, or level, typically with certain limits.",
+    "example_sentence": "The 'Iterate' stage explores variations of a potential solution.",
+    "synonyms": ["difference", "deviation", "diversity", "modification"],
+    "antonyms": ["uniformity", "sameness", "consistency"]
+  }
+}

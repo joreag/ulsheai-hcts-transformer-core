@@ -1,0 +1,13 @@
+{
+  "problem_description": "Dictionary: The word 'project'",
+  "level": 1,
+  "dependencies": ["linguistics/L0_nouns.json"],
+  "properties": {
+    "canonical_name": "project",
+    "part_of_speech": "noun",
+    "definition": "An individual or collaborative enterprise that is carefully planned to achieve a particular aim.",
+    "example_sentence": "The JARVITS project aims to build a new kind of AI.",
+    "synonyms": ["enterprise", "undertaking", "venture", "endeavor"],
+    "antonyms": []
+  }
+}

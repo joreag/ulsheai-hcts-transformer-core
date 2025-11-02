@@ -1,0 +1,13 @@
+{
+  "problem_description": "Dictionary: The word 'level'",
+  "level": 1,
+  "dependencies": ["linguistics/L0_nouns.json"],
+  "properties": {
+    "canonical_name": "level",
+    "part_of_speech": "noun",
+    "definition": "A position on a real or imaginary scale of amount, quantity, extent, or quality.",
+    "example_sentence": "Each lesson is assigned a level in the curriculum hierarchy.",
+    "synonyms": ["tier", "rank", "stage", "degree"],
+    "antonyms": []
+  }
+}

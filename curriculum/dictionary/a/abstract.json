@@ -1,0 +1,13 @@
+{
+  "problem_description": "Dictionary: The word 'abstract'",
+  "level": 1,
+  "dependencies": ["linguistics/L0_adjectives.json"],
+  "properties": {
+    "canonical_name": "abstract",
+    "part_of_speech": "adjective",
+    "definition": "Existing in thought or as an idea but not having a physical or concrete existence.",
+    "example_sentence": "The AI formed an abstract connection between logic and physics.",
+    "synonyms": ["conceptual", "theoretical", "notional"],
+    "antonyms": ["concrete", "physical", "real"]
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "problem_description": "Dictionary: The word 'try'",
+  "level": 0,
+  "dependencies": ["linguistics/L0_verbs.json"],
+  "properties": {
+    "canonical_name": "try",
+    "part_of_speech": "verb",
+    "definition": "To make an attempt or effort to do something.",
+    "example_sentence": "We can try to train a larger model on the new hardware.",
+    "synonyms": ["attempt", "endeavor", "strive"],
+    "antonyms": ["neglect", "give up"]
+  }
+}

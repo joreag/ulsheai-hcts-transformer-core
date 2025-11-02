@@ -1,0 +1,15 @@
+{
+  "problem_description": "Dictionary: The words 'Quiet' and 'Quite'",
+  "level": 1,
+  "dependencies": ["linguistics/L0_adjectives.json", "linguistics/L0_adverbs.json"],
+  "properties": {
+    "canonical_name": "Quiet and Quite",
+    "part_of_speech": "adjective_and_adverb",
+    "definition": "Two distinct words often confused. 'Quiet' refers to the absence of noise, while 'quite' is an adverb of degree.",
+    "example_sentence": "It was quite impressive how the AI remained quiet until a query was received.",
+    "solution_rules": [
+      "quiet: making little or no noise",
+      "quite: to the utmost or most absolute extent or degree; very"
+    ]
+  }
+}

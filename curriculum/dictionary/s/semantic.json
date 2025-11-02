@@ -1,0 +1,13 @@
+{
+  "problem_description": "Dictionary: The word 'semantic'",
+  "level": 2,
+  "dependencies": ["linguistics/L0_adjectives.json", "dictionary/m/meaning.json"],
+  "properties": {
+    "canonical_name": "semantic",
+    "part_of_speech": "adjective",
+    "definition": "Relating to meaning in language or logic.",
+    "example_sentence": "The tool calculates the semantic error between two sentences.",
+    "synonyms": ["meaning-related", "linguistic"],
+    "antonyms": ["syntactic"]
+  }
+}

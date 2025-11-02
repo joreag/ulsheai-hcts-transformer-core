@@ -1,0 +1,13 @@
+{
+  "problem_description": "Dictionary: The word 'unify'",
+  "level": 2,
+  "dependencies": ["linguistics/L0_verbs.json", "ontology/L0_the_mobius_principle.json"],
+  "properties": {
+    "canonical_name": "unify",
+    "part_of_speech": "verb",
+    "definition": "To make or become a single unit; to unite.",
+    "example_sentence": "The MICT theory attempts to unify disparate fields of science.",
+    "synonyms": ["unite", "integrate", "merge", "combine"],
+    "antonyms": ["separate", "divide", "split"]
+  }
+}

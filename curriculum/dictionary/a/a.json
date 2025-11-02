@@ -1,0 +1,13 @@
+{
+  "problem_description": "Dictionary: The word 'a'",
+  "level": 0,
+  "dependencies": [],
+  "properties": {
+    "canonical_name": "a",
+    "part_of_speech": "indefinite_article",
+    "definition": "An indefinite article used before words beginning with a consonant sound.",
+    "example_sentence": "The system uses a knowledge graph.",
+    "synonyms": ["an", "any", "one"],
+    "antonyms": ["the", "every"]
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "problem_description": "Dictionary: The word 'what'",
+  "level": 0,
+  "dependencies": ["linguistics/L0_pronouns.json", "linguistics/L0_determiners.json"],
+  "properties": {
+    "canonical_name": "what",
+    "part_of_speech": "pronoun",
+    "definition": "An interrogative word asking for information specifying something.",
+    "example_sentence": "What is the next step in the process?",
+    "synonyms": [],
+    "antonyms": []
+  }
+}

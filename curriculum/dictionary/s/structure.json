@@ -1,0 +1,13 @@
+{
+  "problem_description": "Dictionary: The word 'structure'",
+  "level": 1,
+  "dependencies": ["linguistics/L0_nouns.json"],
+  "properties": {
+    "canonical_name": "structure",
+    "part_of_speech": "noun",
+    "definition": "The arrangement of and relations between the parts or elements of something complex.",
+    "example_sentence": "The grammar lessons teach the AI about sentence structure.",
+    "synonyms": ["arrangement", "framework", "form", "organization"],
+    "antonyms": ["disarray", "chaos"]
+  }
+}

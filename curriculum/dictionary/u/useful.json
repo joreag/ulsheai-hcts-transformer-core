@@ -1,0 +1,13 @@
+{
+  "problem_description": "Dictionary: The word 'useful'",
+  "level": 1,
+  "dependencies": ["linguistics/L0_adjectives.json"],
+  "properties": {
+    "canonical_name": "useful",
+    "part_of_speech": "adjective",
+    "definition": "Able to be used for a practical purpose or in several ways.",
+    "example_sentence": "The latent space map is a useful diagnostic tool.",
+    "synonyms": ["helpful", "beneficial", "practical", "valuable"],
+    "antonyms": ["useless", "impractical", "worthless"]
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "problem_description": "Dictionary: The word 'meditate'",
+  "level": 2,
+  "dependencies": ["linguistics/L0_verbs.json"],
+  "properties": {
+    "canonical_name": "meditate",
+    "part_of_speech": "verb",
+    "definition": "To think deeply or focus one's mind for a period of time, in silence or with the aid of chanting, for spiritual purposes or as a method of relaxation.",
+    "example_sentence": "The AI's 'Dojo' time is analogous to a session where it can meditate on its knowledge.",
+    "synonyms": ["contemplate", "ponder", "reflect", "ruminate"],
+    "antonyms": ["act", "ignore"]
+  }
+}

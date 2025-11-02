@@ -1,0 +1,13 @@
+{
+  "problem_description": "Dictionary: The word 'model'",
+  "level": 1,
+  "dependencies": ["linguistics/L0_nouns.json"],
+  "properties": {
+    "canonical_name": "model",
+    "part_of_speech": "noun",
+    "definition": "A system or thing used as an example to follow or imitate; a representation of a person, thing, or proposed structure.",
+    "example_sentence": "The HCTS-Transformer is the architectural model for the AI's brain.",
+    "synonyms": ["representation", "paradigm", "prototype", "example"],
+    "antonyms": []
+  }
+}

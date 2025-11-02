@@ -1,0 +1,13 @@
+{
+  "problem_description": "Dictionary: The word 'xenon'",
+  "level": 2,
+  "dependencies": ["linguistics/L0_nouns.json"],
+  "properties": {
+    "canonical_name": "xenon",
+    "part_of_speech": "noun",
+    "definition": "The chemical element of atomic number 54, a member of the noble gas group. It is a colorless, odorless, and very unreactive gas present in minute amounts in the atmosphere.",
+    "example_sentence": "Xenon is used in some specialized light sources and as a general anesthetic.",
+    "synonyms": ["Xe"],
+    "antonyms": []
+  }
+}

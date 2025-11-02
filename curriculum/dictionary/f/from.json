@@ -1,0 +1,13 @@
+{
+  "problem_description": "Dictionary: The word 'from'",
+  "level": 0,
+  "dependencies": ["linguistics/L0_prepositions.json"],
+  "properties": {
+    "canonical_name": "from",
+    "part_of_speech": "preposition",
+    "definition": "Indicating the starting point of a motion or the source of something.",
+    "example_sentence": "The AI gets its core knowledge from the curriculum.",
+    "synonyms": ["originating at", "out of"],
+    "antonyms": ["to", "toward"]
+  }
+}

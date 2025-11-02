@@ -1,0 +1,13 @@
+{
+  "problem_description": "Dictionary: The word 'operate'",
+  "level": 1,
+  "dependencies": ["linguistics/L0_verbs.json"],
+  "properties": {
+    "canonical_name": "operate",
+    "part_of_speech": "verb",
+    "definition": "To control the functioning of a machine, process, or system.",
+    "example_sentence": "The cognitive engine will operate in grounded or creative mode.",
+    "synonyms": ["run", "work", "manage", "control"],
+    "antonyms": ["fail", "malfunction"]
+  }
+}

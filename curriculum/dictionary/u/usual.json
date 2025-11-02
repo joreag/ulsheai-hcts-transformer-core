@@ -1,0 +1,13 @@
+{
+  "problem_description": "Dictionary: The word 'usual'",
+  "level": 0,
+  "dependencies": ["linguistics/L0_adjectives.json"],
+  "properties": {
+    "canonical_name": "usual",
+    "part_of_speech": "adjective",
+    "definition": "Habitually or typically occurring or done.",
+    "example_sentence": "The usual method is to train on a GPU.",
+    "synonyms": ["normal", "standard", "typical", "customary"],
+    "antonyms": ["unusual", "rare", "atypical"]
+  }
+}

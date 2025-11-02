@@ -1,0 +1,13 @@
+{
+  "problem_description": "Dictionary: The word 'relate'",
+  "level": 1,
+  "dependencies": ["linguistics/L0_verbs.json", "dictionary/c/connect.json"],
+  "properties": {
+    "canonical_name": "relate",
+    "part_of_speech": "verb",
+    "definition": "To make or show a connection between two or more things.",
+    "example_sentence": "The latent space mapper shows how the AI has learned to relate concepts.",
+    "synonyms": ["connect", "associate", "link"],
+    "antonyms": ["dissociate", "separate"]
+  }
+}

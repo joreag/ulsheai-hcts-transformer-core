@@ -1,0 +1,13 @@
+{
+  "problem_description": "Dictionary: The word 'general'",
+  "level": 1,
+  "dependencies": ["linguistics/L0_adjectives.json"],
+  "properties": {
+    "canonical_name": "general",
+    "part_of_speech": "adjective",
+    "definition": "Affecting or concerning all or most people, places, or things; not specialized or limited.",
+    "example_sentence": "An AGI has a general intelligence, unlike a narrow AI.",
+    "synonyms": ["widespread", "common", "universal", "broad"],
+    "antonyms": ["specific", "specialized", "particular"]
+  }
+}

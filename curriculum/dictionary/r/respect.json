@@ -1,0 +1,13 @@
+{
+  "problem_description": "Dictionary: The word 'respect'",
+  "level": 2,
+  "dependencies": ["linguistics/L0_nouns.json", "social_etiquette/L2_politeness_and_hedging.json"],
+  "properties": {
+    "canonical_name": "respect",
+    "part_of_speech": "noun",
+    "definition": "A feeling of deep admiration for someone or something elicited by their abilities, qualities, or achievements; due regard for the feelings, wishes, or rights of others.",
+    "example_sentence": "Politeness involves choosing words to show respect for the user.",
+    "synonyms": ["esteem", "admiration", "deference", "regard"],
+    "antonyms": ["disrespect", "contempt", "scorn"]
+  }
+}

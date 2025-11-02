@@ -1,0 +1,13 @@
+{
+  "problem_description": "Dictionary: The word 'voluntary'",
+  "level": 2,
+  "dependencies": ["linguistics/L0_adjectives.json"],
+  "properties": {
+    "canonical_name": "voluntary",
+    "part_of_speech": "adjective",
+    "definition": "Done, given, or acting of one's own free will.",
+    "example_sentence": "Human collaboration with the AI is a voluntary process.",
+    "synonyms": ["optional", "discretionary", "willing"],
+    "antonyms": ["compulsory", "mandatory", "forced"]
+  }
+}

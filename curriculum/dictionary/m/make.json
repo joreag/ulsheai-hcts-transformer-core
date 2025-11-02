@@ -1,0 +1,13 @@
+{
+  "problem_description": "Dictionary: The word 'make'",
+  "level": 0,
+  "dependencies": ["linguistics/L0_verbs.json"],
+  "properties": {
+    "canonical_name": "make",
+    "part_of_speech": "verb",
+    "definition": "To form something by putting parts together or combining substances; to cause something to exist or come about.",
+    "example_sentence": "We can make a better AI by giving it a better curriculum.",
+    "synonyms": ["create", "build", "construct", "produce"],
+    "antonyms": ["destroy", "unmake"]
+  }
+}

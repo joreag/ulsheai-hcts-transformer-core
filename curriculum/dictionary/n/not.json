@@ -1,0 +1,13 @@
+{
+  "problem_description": "Dictionary: The word 'not'",
+  "level": 0,
+  "dependencies": ["linguistics/L0_adverbs.json"],
+  "properties": {
+    "canonical_name": "not",
+    "part_of_speech": "adverb",
+    "definition": "An adverb used to make a statement negative.",
+    "example_sentence": "The AI is not a static program.",
+    "synonyms": [],
+    "antonyms": []
+  }
+}

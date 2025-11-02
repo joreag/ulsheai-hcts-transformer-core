@@ -1,0 +1,13 @@
+{
+  "problem_description": "Dictionary: The word 'different'",
+  "level": 1,
+  "dependencies": ["linguistics/L0_adjectives.json"],
+  "properties": {
+    "canonical_name": "different",
+    "part_of_speech": "adjective",
+    "definition": "Not the same as another or each other; unlike in nature, form, or quality.",
+    "example_sentence": "The standard and medium models have different architectures.",
+    "synonyms": ["unlike", "dissimilar", "distinct"],
+    "antonyms": ["same", "identical", "similar"]
+  }
+}

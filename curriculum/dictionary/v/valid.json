@@ -1,0 +1,13 @@
+{
+  "problem_description": "Dictionary: The word 'valid'",
+  "level": 2,
+  "dependencies": ["linguistics/L0_adjectives.json", "dictionary/l/logic.json"],
+  "properties": {
+    "canonical_name": "valid",
+    "part_of_speech": "adjective",
+    "definition": "Having a sound basis in logic or fact; reasonable or cogent.",
+    "example_sentence": "A deductive syllogism is only valid if the conclusion must follow from the premises.",
+    "synonyms": ["sound", "reasonable", "logical", "legitimate"],
+    "antonyms": ["invalid", "fallacious", "unsound"]
+  }
+}

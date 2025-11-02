@@ -1,0 +1,13 @@
+{
+  "problem_description": "Dictionary: The word 'end'",
+  "level": 0,
+  "dependencies": ["linguistics/L0_nouns.json", "linguistics/L0_verbs.json"],
+  "properties": {
+    "canonical_name": "end",
+    "part_of_speech": "noun",
+    "definition": "The final part of something, especially a period of time, an activity, or a story.",
+    "example_sentence": "The period marks the end of a declarative sentence.",
+    "synonyms": ["finish", "conclusion", "termination"],
+    "antonyms": ["start", "beginning", "origin"]
+  }
+}

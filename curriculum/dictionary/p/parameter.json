@@ -1,0 +1,13 @@
+{
+  "problem_description": "Dictionary: The word 'parameter'",
+  "level": 2,
+  "dependencies": ["linguistics/L0_nouns.json"],
+  "properties": {
+    "canonical_name": "parameter",
+    "part_of_speech": "noun",
+    "definition": "A numerical or other measurable factor forming one of a set that defines a system or sets the conditions of its operation.",
+    "example_sentence": "The model has over 22 million trainable parameters.",
+    "synonyms": ["variable", "limit", "boundary", "specification"],
+    "antonyms": ["constant"]
+  }
+}

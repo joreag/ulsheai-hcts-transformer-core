@@ -1,0 +1,13 @@
+{
+  "problem_description": "Dictionary: The word 'see'",
+  "level": 0,
+  "dependencies": ["linguistics/L0_verbs.json"],
+  "properties": {
+    "canonical_name": "see",
+    "part_of_speech": "verb",
+    "definition": "To perceive with the eyes; to discern or deduce mentally.",
+    "example_sentence": "We can see the AI's thought process through the latent space map.",
+    "synonyms": ["perceive", "view", "observe", "understand"],
+    "antonyms": ["be blind to", "overlook"]
+  }
+}

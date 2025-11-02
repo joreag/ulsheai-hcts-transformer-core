@@ -1,0 +1,13 @@
+{
+  "problem_description": "Dictionary: The word 'find'",
+  "level": 0,
+  "dependencies": ["linguistics/L0_verbs.json"],
+  "properties": {
+    "canonical_name": "find",
+    "part_of_speech": "verb",
+    "definition": "To discover or perceive something, either by chance or after a search.",
+    "example_sentence": "The engine needs to find the relevant node in the knowledge graph.",
+    "synonyms": ["discover", "locate", "identify", "perceive"],
+    "antonyms": ["lose", "overlook"]
+  }
+}

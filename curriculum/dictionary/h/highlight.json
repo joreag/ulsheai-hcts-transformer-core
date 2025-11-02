@@ -1,0 +1,13 @@
+{
+  "problem_description": "Dictionary: The word 'highlight'",
+  "level": 1,
+  "dependencies": ["linguistics/L0_verbs.json"],
+  "properties": {
+    "canonical_name": "highlight",
+    "part_of_speech": "verb",
+    "definition": "To pick out and emphasize.",
+    "example_sentence": "The test results highlight the need for a better vocabulary.",
+    "synonyms": ["emphasize", "spotlight", "underscore", "accentuate"],
+    "antonyms": ["downplay", "ignore", "de-emphasize"]
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "problem_description": "Dictionary: The word 'on'",
+  "level": 0,
+  "dependencies": ["linguistics/L0_prepositions.json"],
+  "properties": {
+    "canonical_name": "on",
+    "part_of_speech": "preposition",
+    "definition": "A preposition expressing a position on a surface or a basis for something.",
+    "example_sentence": "The training is running on the GPU.",
+    "synonyms": ["upon", "atop"],
+    "antonyms": ["under", "below"]
+  }
+}

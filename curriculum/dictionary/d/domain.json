@@ -1,0 +1,13 @@
+{
+  "problem_description": "Dictionary: The word 'domain'",
+  "level": 1,
+  "dependencies": ["linguistics/L0_nouns.json"],
+  "properties": {
+    "canonical_name": "domain",
+    "part_of_speech": "noun",
+    "definition": "A specified sphere of activity or knowledge.",
+    "example_sentence": "Each curriculum focuses on a specific knowledge domain, like physics or linguistics.",
+    "synonyms": ["field", "area", "sphere", "realm"],
+    "antonyms": []
+  }
+}

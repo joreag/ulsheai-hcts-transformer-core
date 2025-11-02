@@ -1,0 +1,13 @@
+{
+  "problem_description": "Dictionary: The word 'yes'",
+  "level": 0,
+  "dependencies": [],
+  "properties": {
+    "canonical_name": "yes",
+    "part_of_speech": "exclamation",
+    "definition": "Used to give an affirmative response.",
+    "example_sentence": "When asked if the system was ready, the response was 'yes'.",
+    "synonyms": ["affirmative", "agreed", "correct", "true"],
+    "antonyms": ["no", "negative"]
+  }
+}

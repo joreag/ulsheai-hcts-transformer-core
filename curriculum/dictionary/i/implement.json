@@ -1,0 +1,13 @@
+{
+  "problem_description": "Dictionary: The word 'implement'",
+  "level": 2,
+  "dependencies": ["linguistics/L0_verbs.json"],
+  "properties": {
+    "canonical_name": "implement",
+    "part_of_speech": "verb",
+    "definition": "To put a decision, plan, or agreement into effect; to carry out.",
+    "example_sentence": "We need to implement the new cognitive engine.",
+    "synonyms": ["execute", "apply", "carry out", "perform"],
+    "antonyms": ["cancel", "postpone", "ignore"]
+  }
+}

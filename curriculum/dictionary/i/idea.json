@@ -1,0 +1,13 @@
+{
+  "problem_description": "Dictionary: The word 'idea'",
+  "level": 1,
+  "dependencies": ["linguistics/L0_nouns.json", "dictionary/c/concept.json"],
+  "properties": {
+    "canonical_name": "idea",
+    "part_of_speech": "noun",
+    "definition": "A thought or suggestion as to a possible course of action; a concept or mental impression.",
+    "example_sentence": "The Mobius Principle is a foundational idea for the project.",
+    "synonyms": ["concept", "thought", "notion", "suggestion"],
+    "antonyms": ["reality", "fact"]
+  }
+}

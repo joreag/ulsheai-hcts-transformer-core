@@ -1,0 +1,13 @@
+{
+  "problem_description": "Dictionary: The word 'understand'",
+  "level": 2,
+  "dependencies": ["linguistics/L0_verbs.json", "dictionary/k/knowledge.json"],
+  "properties": {
+    "canonical_name": "understand",
+    "part_of_speech": "verb",
+    "definition": "To perceive the intended meaning of words, a language, or a speaker; to grasp the significance of an idea.",
+    "example_sentence": "The goal is an AI that can understand concepts, not just repeat patterns.",
+    "synonyms": ["comprehend", "grasp", "perceive", "know"],
+    "antonyms": ["misunderstand", "be confused by"]
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "problem_description": "Dictionary: The word 'are'",
+  "level": 0,
+  "dependencies": ["linguistics/L0_verbs.json"],
+  "properties": {
+    "canonical_name": "are",
+    "part_of_speech": "verb",
+    "definition": "The second person singular present and first, second, third person plural present of 'be'.",
+    "example_sentence": "You are correct, and we are ready to proceed.",
+    "synonyms": ["exist", "is"],
+    "antonyms": ["are not", "aren't"]
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "problem_description": "Level 1 Physics - Newton's Second Law (F=ma)",
+  "level": 1,
+  "dependencies": ["Level 1 Physics - Newton's First Law (Inertia)"],
+  "hypothesis_templates": [
+    "force == mass * acceleration"
+  ],
+  "training_data": [
+    {
+      "comment": "Verifying a standard force calculation.",
+      "force": 20, "mass": 10, "acceleration": 2,
+      "expected_result": true
+    },
+    {
+      "comment": "Verifying with different values.",
+      "force": 100, "mass": 20, "acceleration": 5,
+      "expected_result": true
+    },
+    {
+      "comment": "Negative Knowledge: Verifying F=ma fails with incorrect values.",
+      "force": 25, "mass": 10, "acceleration": 2,
+      "expected_result": false
+    }
+  ]
+}

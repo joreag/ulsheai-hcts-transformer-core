@@ -1,0 +1,13 @@
+{
+  "problem_description": "Dictionary: The word 'keyword'",
+  "level": 1,
+  "dependencies": ["linguistics/L0_nouns.json"],
+  "properties": {
+    "canonical_name": "keyword",
+    "part_of_speech": "noun",
+    "definition": "A word or concept of great significance; a word used in an information retrieval system to indicate the content of a document.",
+    "example_sentence": "The semantic search identifies keywords in the query.",
+    "synonyms": ["term", "identifier", "tag"],
+    "antonyms": []
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "problem_description": "Dictionary: The word 'zone'",
+  "level": 1,
+  "dependencies": ["linguistics/L0_nouns.json"],
+  "properties": {
+    "canonical_name": "zone",
+    "part_of_speech": "noun",
+    "definition": "An area or stretch of land having a particular characteristic, purpose, or use, or subject to particular restrictions.",
+    "example_sentence": "The L3 firewall creates a trusted zone for operations.",
+    "synonyms": ["area", "sector", "region", "domain"],
+    "antonyms": []
+  }
+}

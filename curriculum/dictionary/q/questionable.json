@@ -1,0 +1,13 @@
+{
+  "problem_description": "Dictionary: The word 'questionable'",
+  "level": 2,
+  "dependencies": ["linguistics/L0_adjectives.json", "dictionary/q/question.json"],
+  "properties": {
+    "canonical_name": "questionable",
+    "part_of_speech": "adjective",
+    "definition": "Doubtful as regards truth or quality; not certain.",
+    "example_sentence": "Learning from an untrusted source provides questionable knowledge.",
+    "synonyms": ["doubtful", "dubious", "uncertain", "debatable"],
+    "antonyms": ["certain", "definite", "indisputable"]
+  }
+}

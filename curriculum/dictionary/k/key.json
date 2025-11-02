@@ -1,0 +1,13 @@
+{
+  "problem_description": "Dictionary: The word 'key'",
+  "level": 1,
+  "dependencies": ["linguistics/L0_nouns.json", "linguistics/L0_adjectives.json"],
+  "properties": {
+    "canonical_name": "key",
+    "part_of_speech": "noun",
+    "definition": "A thing that provides a means of achieving or understanding something; of crucial importance.",
+    "example_sentence": "A structured curriculum is the key to building a robust AI.",
+    "synonyms": ["crucial", "essential", "critical", "pivotal"],
+    "antonyms": ["unimportant", "minor", "trivial"]
+  }
+}

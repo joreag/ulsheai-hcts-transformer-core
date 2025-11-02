@@ -1,0 +1,13 @@
+{
+  "problem_description": "Dictionary: The word 'input'",
+  "level": 1,
+  "dependencies": ["linguistics/L0_nouns.json"],
+  "properties": {
+    "canonical_name": "input",
+    "part_of_speech": "noun",
+    "definition": "What is put in, taken in, or operated on by any process or system.",
+    "example_sentence": "The L1 Guardian validates all incoming input.",
+    "synonyms": ["data", "contribution", "feedback"],
+    "antonyms": ["output", "result"]
+  }
+}

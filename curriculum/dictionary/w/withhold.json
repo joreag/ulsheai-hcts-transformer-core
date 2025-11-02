@@ -1,0 +1,13 @@
+{
+  "problem_description": "Dictionary: The word 'withhold'",
+  "level": 2,
+  "dependencies": ["linguistics/L0_verbs.json"],
+  "properties": {
+    "canonical_name": "withhold",
+    "part_of_speech": "verb",
+    "definition": "To refuse to give something that is due to or desired by another.",
+    "example_sentence": "The L3 firewall may withhold access if the risk is too high.",
+    "synonyms": ["retain", "hold back", "keep", "refuse"],
+    "antonyms": ["give", "provide", "release"]
+  }
+}
