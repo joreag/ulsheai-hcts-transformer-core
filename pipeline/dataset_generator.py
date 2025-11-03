@@ -112,8 +112,8 @@ class GroundingDatasetGenerator:
 
 if __name__ == '__main__':
     parser = argparse.ArgumentParser(description="Generate a Q&A grounding dataset from a Knowledge Graph.")
-    parser.add_argument('--graph-path', default='knowledge_graph.pkl', help="Path to the input knowledge_graph.pkl file.")
-    parser.add_argument('--output-path', default='grounding_dataset_qna.jsonl', help="Path for the output .jsonl dataset file.")
+    parser.add_argument('--graph-path', type=str, required=True, help="Path to the input knowledge_graph.pkl file.")
+    parser.add_argument('--output-path', type=str, required=True, help="Path for the output .jsonl dataset file.")
     args = parser.parse_args()
 
     print("--- Running Smart Q&A Dataset Generation ---")

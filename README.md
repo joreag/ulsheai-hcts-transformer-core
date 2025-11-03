@@ -49,9 +49,17 @@ The purpose of this release is to empower the community of builders, researchers
 
 ### Prerequisites
 
-*   Python 3.8+
-*   PyTorch (`pip install torch`)
-*   tqdm (`pip install tqdm`)
+*   Python 3.8+, We currently build using Python Version 3.12.3
+*   We recommend using a virtual environment.
+*   We Use Linux for Development, if you use Windows, please make sure your environment is setup correctly for Windows.
+
+### Installation
+
+Clone the repository and install the required dependencies with a single command:
+
+```bash
+pip install -r requirements.txt
+```
 
 ### Quickstart: Build Your First HCTS Model
 
@@ -59,6 +67,7 @@ From the root directory of this project, you can build a new AI model from the i
 
 ```bash
 python build_ulsheai.py
+```
 
 This script will automatically perform all the necessary data engineering steps and then train the `HCTS-Transformer` model, saving the final `jarvits_hcts_model.pth` file in the project root.
 

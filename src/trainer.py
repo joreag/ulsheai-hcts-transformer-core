@@ -16,7 +16,7 @@ if PROJECT_ROOT not in sys.path:
 # <<< --- END OF BOILERPLATE BLOCK --- >>>
 
 # Ensure we can find the architecture file
-from hcts_transformer_architecture import HCTS_Transformer
+from src.hcts_transformer_architecture import HCTS_Transformer
 
 class GroundingDataset(Dataset):
     def __init__(self, dataset_filepath, vocab_map, max_length=100):

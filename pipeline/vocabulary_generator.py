@@ -1,6 +1,7 @@
 import json
 import os
 import argparse
+
 from tqdm import tqdm
 
 class CharacterVocabularyGenerator:
