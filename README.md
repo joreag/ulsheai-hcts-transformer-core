@@ -68,7 +68,6 @@ From the root directory of this project, you can build a new AI model from the i
 ```bash
 python build_ulsheai.py
 ```
-
 This script will automatically perform all the necessary data engineering steps and then train the `HCTS-Transformer` model, saving the final `jarvits_hcts_model.pth` file in the project root.
 
 ---
